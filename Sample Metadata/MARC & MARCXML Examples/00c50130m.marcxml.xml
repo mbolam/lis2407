@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns="http://www.loc.gov/MARC21/slim">
+  <leader>01320cam a2200337 a 4500</leader>
+  <controlfield tag="001">350130</controlfield>
+  <controlfield tag="005">20090304093412.0</controlfield>
+  <controlfield tag="008">860221s1986    pauaf    b    001 0 eng  </controlfield>
+  <datafield tag="010" ind1=" " ind2=" ">
+      <subfield code="a">   86005461 </subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)ocm13269957</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">DLC</subfield>
+      <subfield code="c">DLC</subfield>
+      <subfield code="d">MUQ</subfield>
+      <subfield code="d">NLGGC</subfield>
+      <subfield code="d">YDXCP</subfield>
+      <subfield code="d">PIT</subfield>
+      <subfield code="d">OCLCQ</subfield>
+  </datafield>
+  <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">0822911507</subfield>
+  </datafield>
+  <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">9780822911500</subfield>
+  </datafield>
+  <datafield tag="043" ind1=" " ind2=" ">
+      <subfield code="a">n-us-pa</subfield>
+  </datafield>
+  <datafield tag="050" ind1="0" ind2=" ">
+      <subfield code="a">LD6013</subfield>
+      <subfield code="b">.A43 1986</subfield>
+  </datafield>
+  <datafield tag="082" ind1="0" ind2=" ">
+      <subfield code="a">378.748/86</subfield>
+      <subfield code="2">19</subfield>
+  </datafield>
+  <datafield tag="049" ind1=" " ind2=" ">
+      <subfield code="a">PITT</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Alberts, Robert C.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Pitt :</subfield>
+      <subfield code="b">the story of the University of Pittsburgh, 1787-1987 /</subfield>
+      <subfield code="c">Robert C. Alberts.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Pittsburgh, Pa. :</subfield>
+      <subfield code="b">University of Pittsburgh Press,</subfield>
+      <subfield code="c">c1986.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">xvii, 537 p., [36] p. of plates :</subfield>
+      <subfield code="b">ill. (some col.) ;</subfield>
+      <subfield code="c">27 cm.</subfield>
+  </datafield>
+  <datafield tag="504" ind1=" " ind2=" ">
+      <subfield code="a">Includes bibliographical references (p. [511]-521) and index.</subfield>
+  </datafield>
+  <datafield tag="530" ind1=" " ind2=" ">
+      <subfield code="a">Also available on the Internet.</subfield>
+  </datafield>
+  <datafield tag="610" ind1="2" ind2="0">
+      <subfield code="a">University of Pittsburgh</subfield>
+      <subfield code="x">History.</subfield>
+  </datafield>
+  <datafield tag="610" ind1="2" ind2="6">
+      <subfield code="a">University of Pittsburgh</subfield>
+      <subfield code="x">Histoire.</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="7">
+      <subfield code="a">Universiteiten.</subfield>
+      <subfield code="2">gtt</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="7">
+      <subfield code="a">University of Pittsburgh.</subfield>
+      <subfield code="2">gtt</subfield>
+  </datafield>
+  <datafield tag="776" ind1="1" ind2=" ">
+      <subfield code="c">Electronic reproduction</subfield>
+      <subfield code="w">(OCoLC)312018034</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="1">
+      <subfield code="u">http://digital.library.pitt.edu/cgi-bin/t/text/text-idx?idno=00c50130m;view=toc;c=pittmiscpubs</subfield>
+  </datafield>
+  <datafield tag="856" ind1="4" ind2="1">
+      <subfield code="u">http://digital.library.pitt.edu/cgi-bin/t/text/text-idx?c=pittpress;view=toc;idno=31735057896312</subfield>
+  </datafield>
+  <datafield tag="994" ind1=" " ind2=" ">
+      <subfield code="a">C0</subfield>
+      <subfield code="b">PIT</subfield>
+  </datafield>
+</record>

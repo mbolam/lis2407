@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vra xmlns="http://www.vraweb.org/vracore4.htm"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.vraweb.org/vracore4.htm http://www.loc.gov/standards/vracore/vra-strict.xsd">
+    <work id="w_46" source="Core 4 Sample Database (VCat)" refid="46">
+        <agentSet>
+            <display>Yayoi Kusama (Japanese installation artist, born 1929)</display>
+            <notes/>
+            <agent>
+                <name vocab="ULAN" refid="500122518" type="personal">Kusama, Yayoi</name>
+                <dates type="life">
+                    <earliestDate>1929</earliestDate>
+                    <latestDate>9999</latestDate>
+                </dates>
+                <culture>Japanese</culture>
+                <role>installation artist</role>
+            </agent>
+        </agentSet>
+        <culturalContextSet>
+            <culturalContext>Japanese</culturalContext>
+        </culturalContextSet>
+        <dateSet>
+            <display>installed 1996 (creation)</display>
+            <date type="creation">
+                <earliestDate>1996</earliestDate>
+                <latestDate>1996</latestDate>
+            </date>
+        </dateSet>
+        <descriptionSet>
+            <display>Yayoi Kusama, the Japanese master painter, sculptor, performance, and installation artist, began her artistic career in the 1950s. She lived and worked in New York City from the late '50s through the early 1970s, where she was an influential participant in the avant-garde scene. Since her return to Tokyo, Kusama has lived by her own choice in a psychiatric hospital, maintaining an off-site studio with a staff of assistants. This permanent installation is described; "beyond a set of double doors, walk first into a black corridor and then into an intensely lit space whose floor is covered in hot red dots. Three female mannequins painted white, their bodies and hair covered with the dots, are reflected in the mirrored walls and ceilings."</display>
+            <description source="Mattress Factory [contemporary art museum]; http://site.mattress.org/ (accessed 1/23/2015)">Yayoi Kusama, the Japanese master painter, sculptor, performance, and installation artist, began her artistic career in the 1950s. She lived and worked in New York City from the late '50s through the early 1970s, where she was an influential participant in the avant-garde scene. Since her return to Tokyo, Kusama has lived by her own choice in a psychiatric hospital, maintaining an off-site studio with a staff of assistants. This permanent installation is described; "beyond a set of double doors, walk first into a black corridor and then into an intensely lit space whose floor is covered in hot red dots. Three female mannequins painted white, their bodies and hair covered with the dots, are reflected in the mirrored walls and ceilings."</description>
+        </descriptionSet>
+        <locationSet>
+            <display>Mattress Factory (Pittsburgh, Pennsylvania, United States) IWC.1996.113</display>
+            <location type="installation">
+                <name type="geographic" vocab="LCNAF" refid="n 92095190 " extent="organization">Mattress Factory</name>
+                <name type="geographic" vocab="TGN" refid="7013927" extent="inhabited place">Pittsburgh</name>
+                <name type="geographic" vocab="TGN" refid="7007710" extent="state">Pennsylvania</name>
+                <name type="geographic" vocab="TGN" refid="7012149" extent="nation">United States</name>
+                <name type="geographic" vocab="TGN" refid="1000001" extent="continent">North and Central America</name>
+                <refid type="accession">IWC.1996.113</refid>
+            </location>
+        </locationSet>
+        <materialSet>
+            <display>glass, Formica, mannequins, decals</display>
+            <notes/>
+            <material/>
+        </materialSet>
+        <sourceSet>
+            <display>Core 4 Sample Database (VCat)</display>
+            <source>
+                <name>Core 4 Sample Database (VCat)</name>
+            </source>
+        </sourceSet>
+        <stylePeriodSet>
+            <display>Conceptual; Twentieth century</display>
+            <stylePeriod vocab="LCSAF" refid="sh 85139020">Twentieth century</stylePeriod>
+            <stylePeriod vocab="AAT" refid="300264827">Conceptual</stylePeriod>
+        </stylePeriodSet>
+        <subjectSet>
+            <display>contemporary (1960 to present); Mirrors</display>
+            <notes/>
+            <subject>
+                <term type="descriptiveTopic" vocab="LCSAF" refid="sh 85085963">Mirrors</term>
+            </subject>
+        </subjectSet>
+        <techniqueSet>
+            <display>construction (assembling)</display>
+            <notes/>
+            <technique vocab="AAT" refid="300054608">construction (assembling)</technique>
+        </techniqueSet>
+        <titleSet>
+            <display>Repetitive Vision</display>
+            <title type="cited" pref="true" xml:lang="en">Repetitive Vision</title>
+        </titleSet>
+        <worktypeSet>
+            <display>visual works; installations (visual works)</display>
+            <worktype vocab="AAT" refid="300047896">installation (visual work)</worktype>
+        </worktypeSet>
+    </work>
+    <image id="i_147" href="http://www.core.vraweb.org/examples/html/example052_full.html"
+        refid="147" source="VRA Core Oversight Committee, Core 4 Sample Records">
+        <dateSet>
+            <display>1996 (creation)</display>
+            <notes/>
+            <date/>
+        </dateSet>
+        <measurementsSet>
+            <display>18 MB</display>
+            <notes/>
+            <measurements/>
+        </measurementsSet>
+        <relationSet>
+            <relation type="imageOf" refid="46" source="Core 4 Sample Database (VCat)"/>
+        </relationSet>
+        <rightsSet>
+            <display>undetermined</display>
+            <rights/>
+        </rightsSet>
+        <sourceSet>
+            <display>Mattress Factory [contemporary art museum]; http://site.mattress.org/</display>
+            <source>
+                <name/>
+                <refid type="URI">http://site.mattress.org/</refid>
+            </source>
+        </sourceSet>
+        <techniqueSet>
+            <display>digital imaging</display>
+            <notes/>
+            <technique/>
+        </techniqueSet>
+        <titleSet>
+            <display>Installation view inside the mirrored room</display>
+            <title type="generalView">Installation view inside the mirrored room</title>
+        </titleSet>
+        <worktypeSet>
+            <display>digital image</display>
+            <notes/>
+            <worktype/>
+        </worktypeSet>
+    </image>
+</vra>

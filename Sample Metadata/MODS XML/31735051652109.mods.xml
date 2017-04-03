@@ -1,0 +1,108 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <titleInfo>
+    <title>Saint Leocadia Church, Wilmerding, Pennsylvania</title>
+    <subTitle>golden jubilee celebration</subTitle>
+  </titleInfo>
+  <titleInfo type="alternative">
+    <title>St. Leocadia Church, Wilmerding, Pennsylvania</title>
+    <subTitle>golden jubilee celebration</subTitle>
+  </titleInfo>
+  <name type="corporate">
+    <namePart>St. Leocadia Church (Wilmerding, Pa.)</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">pau</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Wilmerding, Pa</placeTerm>
+    </place>
+    <publisher>St. Leocadia Parish</publisher>
+    <issuance>monographic</issuance>
+    <dateOther type="260c">1966]</dateOther>
+    <dateIssued keyDate="yes" encoding="iso8601">1966</dateIssued>
+    <dateOther type="display">1966</dateOther>
+    <dateOther type="sort">1966-01-01T00:00:00</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">pol</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>1 v. (unpaged) : ill. ; 24 cm.</extent>
+  </physicalDescription>
+  <note>Cover title.</note>
+  <note type="additional physical form">Also issued online.</note>
+  <note type="language">English and Polish.</note>
+  <subject>
+    <geographicCode authority="marcgac">n-us-pa</geographicCode>
+  </subject>
+  <subject authority="lcsh">
+    <name type="corporate">
+      <namePart>St. Leocadia Church (Wilmerding, Pa.)</namePart>
+    </name>
+    <topic>History</topic>
+  </subject>
+  <subject authority="lcsh">
+    <name type="corporate">
+      <namePart>St. Leocadia Church  (Wilmerding, Pa.)</namePart>
+    </name>
+    <topic>Anniversaries, etc</topic>
+  </subject>
+  <subject authority="lcsh">
+    <name type="corporate">
+      <namePart>Catholic Church</namePart>
+    </name>
+    <geographic>Pennsylvania</geographic>
+    <geographic>Wilmerding</geographic>
+    <topic>History</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Polish people</topic>
+    <geographic>Pennsylvania</geographic>
+    <geographic>Wilmerding</geographic>
+    <topic>History</topic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Wilmerding (Pa.)</geographic>
+    <topic>Church history</topic>
+  </subject>
+  <relatedItem type="otherFormat">
+    <titleInfo>
+      <title>Saint Leocadia Church, Wilmerding, Pennsylvania</title>
+    </titleInfo>
+    <name>
+      <namePart>St. Leocadia Church (Wilmerding, Pa.).</namePart>
+    </name>
+    <originInfo>
+      <publisher>[Wilmerding, Pa. : St. Leocadia Parish, 1966]</publisher>
+    </originInfo>
+    <identifier type="local">(OCoLC)373865606</identifier>
+  </relatedItem>
+  <recordInfo>
+    <descriptionStandard>aacr2</descriptionStandard>
+    <recordContentSource authority="marcorg">PIT</recordContentSource>
+    <recordCreationDate encoding="marc">080923</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20100115142601.0</recordChangeDate>
+    <recordIdentifier>5626957</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.3 using MARC21slim2MODS3-3.xsl
+				(Revision 1.54)</recordOrigin>
+  </recordInfo>
+  <identifier type="pitt">31735051652109</identifier>
+  <accessCondition>
+    <copyrightMD:copyright xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" copyright.status="pd_expired" publication.status="published"/>
+  </accessCondition>
+  <name>
+    <namePart>University of Pittsburgh</namePart>
+    <role>
+      <roleTerm type="text">depositor</roleTerm>
+    </role>
+  </name>
+</mods>

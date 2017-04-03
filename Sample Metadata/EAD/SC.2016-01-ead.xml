@@ -1,0 +1,1602 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="Ready_For_Scanning" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US">US-PPiU-sc201601</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>SC.2016.01</num>
+                </titleproper>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>ULS Archives Service Center</publisher>
+                <address>
+                    <addressline>University of Pittsburgh Library System</addressline>
+                    <addressline>7500 Thomas Boulevard</addressline>
+                    <addressline>Pittsburgh, PA, 15260</addressline>
+                    <addressline>412-648-3232</addressline>
+                    <addressline>archives-ref@mail.pitt.edu</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2016-06-28T12:51-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Chinese Prisoners</unittitle>
+            <unitid>SC.2016.01</unitid>
+            <repository>
+                <corpname>ULS Archives Service Center</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="fre"/>
+            </langmaterial>
+            <physdesc>
+                <extent>104.0 photographs</extent>
+            </physdesc>
+            <unitdate>1939</unitdate>
+        </did>
+        <dsc>
+            <c01 id="ref1" level="item">
+                <did>
+                    <unittitle>Seng Ting Chung</unittitle>
+                    <container id="cid5459001" type="Item" label="Photographic images">1</container>
+                </did>
+                <scopecontent id="ref2">
+                    <head>Scope and Content Notes</head>
+                    <p>Pointer 7 Passé 1/1/24 Controleur 15</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Seng Ting Chung" ns2:href="31735070382852">
+                    <daodesc>
+                        <p>Seng Ting Chung</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref3" level="item">
+                <did>
+                    <unittitle>Yong Zu Foh</unittitle>
+                    <container id="cid5459002" type="Item" label="Photographic images">2</container>
+                </did>
+                <scopecontent id="ref4">
+                    <head>Scope and Content Notes</head>
+                    <p>Point. 12 Passé 1/3/28 Dem. 16/1/40</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Yong Zu Foh" ns2:href="31735070382860">
+                    <daodesc>
+                        <p>Yong Zu Foh</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref5" level="item">
+                <did>
+                    <unittitle>Ou Yong Bang</unittitle>
+                    <container id="cid5459003" type="Item" label="Photographic images">3</container>
+                </did>
+                <scopecontent id="ref6">
+                    <head>Scope and Content Notes</head>
+                    <p>Pointeur 6 Renvoyé 6/2/29</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Ou Yong Bang" ns2:href="31735070382878">
+                    <daodesc>
+                        <p>Ou Yong Bang</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref7" level="item">
+                <did>
+                    <unittitle>Yong Te Tse</unittitle>
+                    <container id="cid5459004" type="Item" label="Photographic images">4</container>
+                </did>
+                <scopecontent id="ref9">
+                    <head>Scope and Content Notes</head>
+                    <p>Pointeur 38 Demissionnaire 1/4/29</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Yong Te Tse" ns2:href="31735070382886">
+                    <daodesc>
+                        <p>Yong Te Tse</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref10" level="item">
+                <did>
+                    <unittitle>Tsu Gou</unittitle>
+                    <container id="cid5469003" type="Item" label="Photographic images">5</container>
+                </did>
+                <scopecontent id="ref11">
+                    <head>Scope and Content Notes</head>
+                    <p>Pointeur 22 Demissionnaire 25/4/29</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Tsu Gou" ns2:href="31735070382894">
+                    <daodesc>
+                        <p>Tsu Gou</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref12" level="item">
+                <did>
+                    <unittitle>Che So Y</unittitle>
+                    <container id="cid5469002" type="Item" label="Photographic images">6</container>
+                </did>
+                <scopecontent id="ref13">
+                    <head>Scope and Content Notes</head>
+                    <p>Pointeur 2 Dém. 1/6/29</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Che So Y" ns2:href="31735070382902">
+                    <daodesc>
+                        <p>Che So Y</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref14" level="item">
+                <did>
+                    <unittitle>Tsang Yong Tsing</unittitle>
+                    <container id="cid5469004" type="Item" label="Photographic images">7</container>
+                </did>
+                <scopecontent id="ref15">
+                    <head>Scope and Content Notes</head>
+                    <p>Pointeur 30 Dém. 1/6/29</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Tsang Yong Tsing" ns2:href="31735070382910">
+                    <daodesc>
+                        <p>Tsang Yong Tsing</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref16" level="item">
+                <did>
+                    <unittitle>Ly Tong Seng</unittitle>
+                    <container id="cid5470001" type="Item" label="Photographic images">8</container>
+                </did>
+                <scopecontent id="ref19">
+                    <head>Scope and Content Notes</head>
+                    <p>Pointeur 36 Engagé 16/7/27 Licencié 1/7/29</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Ly Tong Seng" ns2:href="31735070382928">
+                    <daodesc>
+                        <p>Ly Tong Seng</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref17" level="item">
+                <did>
+                    <unittitle>Tenang Tsang Tsing</unittitle>
+                    <container id="cid5470002" type="Item" label="Photographic images">9</container>
+                </did>
+                <scopecontent id="ref18">
+                    <head>Scope and Content Notes</head>
+                    <p>Pointeur 8 Réintégré 23/7/29 Dém 1/2/30</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Tenang Tsang Tsing" ns2:href="31735070382936">
+                    <daodesc>
+                        <p>Tenang Tsang Tsing</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref20" level="item">
+                <did>
+                    <unittitle>[Unknown]</unittitle>
+                    <container id="cid5470011" type="Item" label="Photographic images">10</container>
+                </did>
+                <scopecontent id="ref23">
+                    <head>Scope and Content Notes</head>
+                    <p>P 31 Renvoyé 1/8/29</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="[Unknown]" ns2:href="31735070382944">
+                    <daodesc>
+                        <p>[Unknown]</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref21" level="item">
+                <did>
+                    <unittitle>[Unknown]</unittitle>
+                    <container id="cid5470012" type="Item" label="Photographic images">11</container>
+                </did>
+                <scopecontent id="ref24">
+                    <head>Scope and Content Notes</head>
+                    <p>P 32 Dém. 1/11/29</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="[Unknown]" ns2:href="31735070382951">
+                    <daodesc>
+                        <p>[Unknown]</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref22" level="item">
+                <did>
+                    <unittitle>[Unknown]</unittitle>
+                    <container id="cid5470013" type="Item" label="Photographic images">12</container>
+                </did>
+                <scopecontent id="ref25">
+                    <head>Scope and Content Notes</head>
+                    <p>P 34 Renvoyé 1/2/30</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="[Unknown]" ns2:href="31735070382969">
+                    <daodesc>
+                        <p>[Unknown]</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref26" level="item">
+                <did>
+                    <unittitle>Zie (Zu?) Ly Keng?</unittitle>
+                    <container id="cid5470017" type="Item" label="Photographic images">13</container>
+                </did>
+                <scopecontent id="ref29">
+                    <head>Scope and Content Notes</head>
+                    <p>P 40 Renvoyé 1/2/30</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Zie (Zu?) Ly Keng?" ns2:href="31735070382977">
+                    <daodesc>
+                        <p>Zie (Zu?) Ly Keng?</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref27" level="item">
+                <did>
+                    <unittitle>You Yang Zeng</unittitle>
+                    <container id="cid5470018" type="Item" label="Photographic images">14</container>
+                </did>
+                <scopecontent id="ref30">
+                    <head>Scope and Content Notes</head>
+                    <p>Ex-Pointeur 42 Passé 2/2/30 Passé cont. 26 1/7/34 Dém. 9/5/39 Ex Contrôleur 26</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="You Yang Zeng" ns2:href="31735070382985">
+                    <daodesc>
+                        <p>You Yang Zeng</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref28" level="item">
+                <did>
+                    <unittitle>Wang Zeng Ghie</unittitle>
+                    <container id="cid5470019" type="Item" label="Photographic images">15</container>
+                </did>
+                <scopecontent id="ref31">
+                    <head>Scope and Content Notes</head>
+                    <p>Pointeur 42 (P42) Engagé 20/2/29 Renvoyé 2/2/30</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Wang Zeng Ghie
+" ns2:href="31735070382993">
+                    <daodesc>
+                        <p>Wang Zeng Ghie
+</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref32" level="item">
+                <did>
+                    <unittitle>[Unknown]</unittitle>
+                    <container id="cid5470023" type="Item" label="Photographic images">16</container>
+                </did>
+                <scopecontent id="ref35">
+                    <head>Scope and Content Notes</head>
+                    <p>P 26 Dém? 14/2/30</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="[Unknown]" ns2:href="31735070383009">
+                    <daodesc>
+                        <p>[Unknown]</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref33" level="item">
+                <did>
+                    <unittitle>Yang Ping Ye</unittitle>
+                    <container id="cid5470024" type="Item" label="Photographic images">17</container>
+                </did>
+                <scopecontent id="ref36">
+                    <head>Scope and Content Notes</head>
+                    <p>Ex-Point. 23 Passé 1/6/29 Renvoyé 16/3/30, 1/4/30 Contrôleur 24</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Yang Ping Ye" ns2:href="31735070383017">
+                    <daodesc>
+                        <p>Yang Ping Ye</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref34" level="item">
+                <did>
+                    <unittitle>Yang Ping Ye</unittitle>
+                    <container id="cid5470025" type="Item" label="Photographic images">18</container>
+                </did>
+                <scopecontent id="ref37">
+                    <head>Scope and Content Notes</head>
+                    <p>Ex-Point. 23 Passé 1/6/29 Renvoyé 16/3/30, 1/4/30 Contrôleur 24</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Yang Ping Ye" ns2:href="31735070383025">
+                    <daodesc>
+                        <p>Yang Ping Ye</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref38" level="item">
+                <did>
+                    <unittitle>Dao Ly Pang</unittitle>
+                    <container id="cid5470029" type="Item" label="Photographic images">19</container>
+                </did>
+                <scopecontent id="ref41">
+                    <head>Scope and Content Notes</head>
+                    <p>Pointeur 15 Licencié 1/5/30</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Dao Ly Pang" ns2:href="31735070383033">
+                    <daodesc>
+                        <p>Dao Ly Pang</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref39" level="item">
+                <did>
+                    <unittitle>Dao Ly Pang</unittitle>
+                    <container id="cid5470030" type="Item" label="Photographic images">20</container>
+                </did>
+                <scopecontent id="ref42">
+                    <head>Scope and Content Notes</head>
+                    <p>Pointeur 15 Licencié 1/5/30</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Dao Ly Pang
+" ns2:href="31735070383041">
+                    <daodesc>
+                        <p>Dao Ly Pang
+</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref40" level="item">
+                <did>
+                    <unittitle>Kieng King Voh</unittitle>
+                    <container id="cid5470031" type="Item" label="Photographic images">21</container>
+                </did>
+                <scopecontent id="ref43">
+                    <head>Scope and Content Notes</head>
+                    <p>Pointeur 10 Renvoyé le 1/6/30</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Kieng King Voh" ns2:href="31735070383058">
+                    <daodesc>
+                        <p>Kieng King Voh</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref44" level="item">
+                <did>
+                    <unittitle>Wang Tso</unittitle>
+                    <container id="cid5470035" type="Item" label="Photographic images">22</container>
+                </did>
+                <scopecontent id="ref47">
+                    <head>Scope and Content Notes</head>
+                    <p>Pointeur 20 Dém. Le 1/6/30</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Wang Tso" ns2:href="31735070383066">
+                    <daodesc>
+                        <p>Wang Tso</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref45" level="item">
+                <did>
+                    <unittitle>Tsang Tse Ziang</unittitle>
+                    <container id="cid5470036" type="Item" label="Photographic images">23</container>
+                </did>
+                <scopecontent id="ref48">
+                    <head>Scope and Content Notes</head>
+                    <p>Point. 26 Engagé le 1/3/30 Licencié le 1/7/30</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Tsang Tse Ziang" ns2:href="31735070383074">
+                    <daodesc>
+                        <p>Tsang Tse Ziang</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref46" level="item">
+                <did>
+                    <unittitle>King Kie Seng</unittitle>
+                    <container id="cid5470037" type="Item" label="Photographic images">24</container>
+                </did>
+                <scopecontent id="ref49">
+                    <head>Scope and Content Notes</head>
+                    <p>Cond. 95 1/5/26 Dém. Le 1/11/30 Contrôleur 17</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="King Kie Seng" ns2:href="31735070383082">
+                    <daodesc>
+                        <p>King Kie Seng</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref50" level="item">
+                <did>
+                    <unittitle>Yang Dong Fong</unittitle>
+                    <container id="cid5470041" type="Item" label="Photographic images">25</container>
+                </did>
+                <scopecontent id="ref53">
+                    <head>Scope and Content Notes</head>
+                    <p>Décédé le 4/2/31 Cont. 11</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Yang Dong Fong
+" ns2:href="31735090383090">
+                    <daodesc>
+                        <p>Yang Dong Fong
+</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref51" level="item">
+                <did>
+                    <unittitle>Liou Yong</unittitle>
+                    <container id="cid5470042" type="Item" label="Photographic images">26</container>
+                </did>
+                <scopecontent id="ref54">
+                    <head>Scope and Content Notes</head>
+                    <p>Engagé le 13/6/29 Licencié le 12/4/32 Contrôleur 34</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Liou Yong" ns2:href="31735070383108">
+                    <daodesc>
+                        <p>Liou Yong</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref52" level="item">
+                <did>
+                    <unittitle>Zie Wou Vai</unittitle>
+                    <container id="cid5470043" type="Item" label="Photographic images">27</container>
+                </did>
+                <scopecontent id="ref55">
+                    <head>Scope and Content Notes</head>
+                    <p>Pointeur 6 Engagé le 1/6/29 Renvoyé le 23/4/31</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Zie Wou Vai" ns2:href="31735090383116">
+                    <daodesc>
+                        <p>Zie Wou Vai</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref56" level="item">
+                <did>
+                    <unittitle>Hong Ts'eng Yo</unittitle>
+                    <container id="cid5470047" type="Item" label="Photographic images">28</container>
+                </did>
+                <scopecontent id="ref68">
+                    <head>Scope and Content Notes</head>
+                    <p>Pointeur 36 Engagé le 10/8/29 Renvoyé le 1/10/31</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Hong Ts'eng Yo" ns2:href="31735070383124">
+                    <daodesc>
+                        <p>Hong Ts'eng Yo</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref57" level="item">
+                <did>
+                    <unittitle>Zie Mong Ling</unittitle>
+                    <container id="cid5470048" type="Item" label="Photographic images">29</container>
+                </did>
+                <scopecontent id="ref69">
+                    <head>Scope and Content Notes</head>
+                    <p>Ex-Pointeur 22 Engagé le 1/8/29; Passé le 13/10/31 Renvoyé le 5/11/36 Contrôleur 28</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Zie Mong Ling" ns2:href="31735070383132">
+                    <daodesc>
+                        <p>Zie Mong Ling</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref58" level="item">
+                <did>
+                    <unittitle>Ouang Sing Pao</unittitle>
+                    <container id="cid5470049" type="Item" label="Photographic images">30</container>
+                </did>
+                <scopecontent id="ref70">
+                    <head>Scope and Content Notes</head>
+                    <p>Devenu le 1/12/29 Licencié le 1/11/31 Contrôleur 12; ex chef cond.</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Ouang Sing Pao" ns2:href="31735070383140">
+                    <daodesc>
+                        <p>Ouang Sing Pao</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref59" level="item">
+                <did>
+                    <unittitle>Yang Yong Seng</unittitle>
+                    <container id="cid5470050" type="Item" label="Photographic images">31</container>
+                </did>
+                <scopecontent id="ref71">
+                    <head>Scope and Content Notes</head>
+                    <p>Pointeur 44 Engagé le 1/10/28; Passé le 1/6/29 Licencié le 19/4/32 Ex cond. 289</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Yang Yong Seng" ns2:href="31735070383157">
+                    <daodesc>
+                        <p>Yang Yong Seng</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref60" level="item">
+                <did>
+                    <unittitle>Gieu Vi Te?</unittitle>
+                    <container id="cid5470051" type="Item" label="Photographic images">32</container>
+                </did>
+                <scopecontent id="ref72">
+                    <head>Scope and Content Notes</head>
+                    <p>Pointeur 18 16/12/27 Dem. le 1/7/32</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Gieu Vi Te?" ns2:href="31735070383165">
+                    <daodesc>
+                        <p>Gieu Vi Te?</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref61" level="item">
+                <did>
+                    <unittitle>Zie Zeng Ziang</unittitle>
+                    <container id="cid5470052" type="Item" label="Photographic images">33</container>
+                </did>
+                <scopecontent id="ref73">
+                    <head>Scope and Content Notes</head>
+                    <p>Point. 36 Engagé le 1/12/31 Dem. le 1/10/32</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Zie Zeng Ziang" ns2:href="31735070383173">
+                    <daodesc>
+                        <p>Zie Zeng Ziang</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref62" level="item">
+                <did>
+                    <unittitle>Grie Hong Y</unittitle>
+                    <container id="cid5470053" type="Item" label="Photographic images">34</container>
+                </did>
+                <scopecontent id="ref74">
+                    <head>Scope and Content Notes</head>
+                    <p>Pointeur 9 Engagé le 4/8/31 Licencié le 1/11/32</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Grie Hong Y" ns2:href="31735070383181">
+                    <daodesc>
+                        <p>Grie Hong Y</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref63" level="item">
+                <did>
+                    <unittitle>Tchang Liang Ts?</unittitle>
+                    <container id="cid5470054" type="Item" label="Photographic images">35</container>
+                </did>
+                <scopecontent id="ref75">
+                    <head>Scope and Content Notes</head>
+                    <p>Pointeur 10; Insp. 5 Licencié le 1/11/32 Passé comme Contrôleur 16 le 1. janvier 1924</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Tchang Liang Ts?" ns2:href="31735070383199">
+                    <daodesc>
+                        <p>Tchang Liang Ts?</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref64" level="item">
+                <did>
+                    <unittitle>Ly King Dang</unittitle>
+                    <container id="cid5470055" type="Item" label="Photographic images">36</container>
+                </did>
+                <scopecontent id="ref76">
+                    <head>Scope and Content Notes</head>
+                    <p>Pointeur 20 Engagé le 1/8/30 Dém. le 11/7/33</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Ly King Dang" ns2:href="31735070383207">
+                    <daodesc>
+                        <p>Ly King Dang</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref65" level="item">
+                <did>
+                    <unittitle>Seng Ah Fou</unittitle>
+                    <container id="cid5470056" type="Item" label="Photographic images">37</container>
+                </did>
+                <scopecontent id="ref77">
+                    <head>Scope and Content Notes</head>
+                    <p>Pointeur 46 Engagé le 11/3/30 Renvoyé le 23/1/34</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Seng Ah Fou" ns2:href="31735070383215">
+                    <daodesc>
+                        <p>Seng Ah Fou</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref66" level="item">
+                <did>
+                    <unittitle>Ou King Yong</unittitle>
+                    <container id="cid5470057" type="Item" label="Photographic images">38</container>
+                </did>
+                <scopecontent id="ref78">
+                    <head>Scope and Content Notes</head>
+                    <p>Dém. le 1/6/34</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Ou King Yong" ns2:href="31735070383223">
+                    <daodesc>
+                        <p>Ou King Yong</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref67" level="item">
+                <did>
+                    <unittitle>Seng Ly Seng</unittitle>
+                    <container id="cid5470058" type="Item" label="Photographic images">39</container>
+                </did>
+                <scopecontent id="ref79">
+                    <head>Scope and Content Notes</head>
+                    <p>Ex-P. 33 Passé le 1/2/30 Dém. le 9/7/34 Contrôleur 35</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Seng Ly Seng" ns2:href="31735070383231">
+                    <daodesc>
+                        <p>Seng Ly Seng</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref80" level="item">
+                <did>
+                    <unittitle>Zao Ki Koang</unittitle>
+                    <container id="cid5470071" type="Item" label="Photographic images">40</container>
+                </did>
+                <scopecontent id="ref81">
+                    <head>Scope and Content Notes</head>
+                    <p>Pointeur 37 Engagé le 16/3/28 Dém. le 1/10/34</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Zao Ki Koang" ns2:href="31735070383249">
+                    <daodesc>
+                        <p>Zao Ki Koang</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref82" level="item">
+                <did>
+                    <unittitle>Seng Zie Ou</unittitle>
+                    <container id="cid5470072" type="Item" label="Photographic images">41</container>
+                </did>
+                <scopecontent id="ref83">
+                    <head>Scope and Content Notes</head>
+                    <p>Point. 1 Dém. le 1/4/35 Cond. 17</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Seng Zie Ou" ns2:href="31735070383256">
+                    <daodesc>
+                        <p>Seng Zie Ou</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref84" level="item">
+                <did>
+                    <unittitle>Zie Ping Yen</unittitle>
+                    <container id="cid5470076" type="Item" label="Photographic images">42</container>
+                </did>
+                <scopecontent id="ref85">
+                    <head>Scope and Content Notes</head>
+                    <p>Point. 31 Engagé le 22/8/29 Dém. le 5/10/38 Passé contr. 23 le 1/3/36</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Zie Ping Yen" ns2:href="31735070383264">
+                    <daodesc>
+                        <p>Zie Ping Yen</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref86" level="item">
+                <did>
+                    <unittitle>Zie Ping Yen</unittitle>
+                    <container id="cid5470077" type="Item" label="Photographic images">43</container>
+                </did>
+                <scopecontent id="ref87">
+                    <head>Scope and Content Notes</head>
+                    <p>Point. 31 Engagé le 22/8/29 Dém. le 5/10/38 Passé contr. 23 le 1/3/36</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Zie Ping Yen" ns2:href="31735070383272">
+                    <daodesc>
+                        <p>Zie Ping Yen</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref88" level="item">
+                <did>
+                    <unittitle>Seng Zai Yong</unittitle>
+                    <container id="cid5470080" type="Item" label="Photographic images">44</container>
+                </did>
+                <scopecontent id="ref89">
+                    <head>Scope and Content Notes</head>
+                    <p>Dém. le 10/3/36 Regulateur 3</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Seng Zai Yong" ns2:href="31735070383280">
+                    <daodesc>
+                        <p>Seng Zai Yong</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref90" level="item">
+                <did>
+                    <unittitle>Heu Hwa Zeng</unittitle>
+                    <container id="cid5470081" type="Item" label="Photographic images">45</container>
+                </did>
+                <scopecontent id="ref91">
+                    <head>Scope and Content Notes</head>
+                    <p>Engagé le 1/2/34 Dém. le 17/5/37 Contrôleur 12</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Heu Hwa Zeng" ns2:href="31735070383298">
+                    <daodesc>
+                        <p>Heu Hwa Zeng</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref92" level="item">
+                <did>
+                    <unittitle>Li Kone Seng</unittitle>
+                    <container id="cid5470084" type="Item" label="Photographic images">46</container>
+                </did>
+                <scopecontent id="ref93">
+                    <head>Scope and Content Notes</head>
+                    <p>Pointeur 6 ex. 90 Passé le 13/10/21 Dém. le 1/9/38 Contrôleur 12c; passé contr. 12 le 1/9/37</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Li Kone Seng " ns2:href="31735070383306">
+                    <daodesc>
+                        <p>Li Kone Seng </p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref94" level="item">
+                <did>
+                    <unittitle>Li Kone Seng</unittitle>
+                    <container id="cid5470085" type="Item" label="Photographic images">47</container>
+                </did>
+                <scopecontent id="ref95">
+                    <head>Scope and Content Notes</head>
+                    <p>Pointeur 6 ex. 90 Passé le 13/10/21 Dém. le 1/9/38 Contrôleur 12c; passé contr. 12 le 1/9/37</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Li Kone Seng" ns2:href="31735070383314">
+                    <daodesc>
+                        <p>Li Kone Seng</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref96" level="item">
+                <did>
+                    <unittitle>Zao Pao Seng</unittitle>
+                    <container id="cid5470088" type="Item" label="Photographic images">48</container>
+                </did>
+                <scopecontent id="ref97">
+                    <head>Scope and Content Notes</head>
+                    <p>Dém. le 8/9/38 Régulateur 2</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Zao Pao Seng" ns2:href="31735070383322">
+                    <daodesc>
+                        <p>Zao Pao Seng</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref98" level="item">
+                <did>
+                    <unittitle>Lng Kouen</unittitle>
+                    <container id="cid5470089" type="Item" label="Photographic images">49</container>
+                </did>
+                <scopecontent id="ref99">
+                    <head>Scope and Content Notes</head>
+                    <p>Pointeur 28 Engagé le 10/8/34; apprentissage le 10/9/34 Renvoyé le 26/10/38</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Lng Kouen" ns2:href="31735070383330">
+                    <daodesc>
+                        <p>Lng Kouen</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref100" level="item">
+                <did>
+                    <unittitle>Zo Ding Sai</unittitle>
+                    <container id="cid5470092" type="Item" label="Photographic images">50</container>
+                </did>
+                <scopecontent id="ref101">
+                    <head>Scope and Content Notes</head>
+                    <p>Point. 6 Engagé le 7/7/38; passé point. le 1/9/28 Renvoyé le 1/2/39</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Zo Ding Sai" ns2:href="31735070383348">
+                    <daodesc>
+                        <p>Zo Ding Sai</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref102" level="item">
+                <did>
+                    <unittitle>Ou Sih Ngo</unittitle>
+                    <container id="cid5470093" type="Item" label="Photographic images">51</container>
+                </did>
+                <scopecontent id="ref103">
+                    <head>Scope and Content Notes</head>
+                    <p>Engagé le 1/5/38 Dém. el 2/3/39 Contrôleur 35</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Ou Sih Ngo " ns2:href="31735070383355">
+                    <daodesc>
+                        <p>Ou Sih Ngo </p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref104" level="item">
+                <did>
+                    <unittitle>Ou Sih Ngo</unittitle>
+                    <container id="cid5470095" type="Item" label="Photographic images">52</container>
+                </did>
+                <scopecontent id="ref157">
+                    <head>Scope and Content Notes</head>
+                    <p>Engagé le 1/5/38 Dém. el 2/3/39 Contrôleur 35</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Ou Sih Ngo " ns2:href="31735070383363">
+                    <daodesc>
+                        <p>Ou Sih Ngo </p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref105" level="item">
+                <did>
+                    <unittitle>Gu Ze Shing</unittitle>
+                    <container id="cid5470096" type="Item" label="Photographic images">53</container>
+                </did>
+                <scopecontent id="ref158">
+                    <head>Scope and Content Notes</head>
+                    <p>Engagé le 23/3/39 Licencié le 14/4/39 Contrôleur 40</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Gu Ze Shing" ns2:href="31735070383371">
+                    <daodesc>
+                        <p>Gu Ze Shing</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref106" level="item">
+                <did>
+                    <unittitle>Kou Yong Tseng</unittitle>
+                    <container id="cid5470097" type="Item" label="Photographic images">54</container>
+                </did>
+                <scopecontent id="ref159">
+                    <head>Scope and Content Notes</head>
+                    <p>Dém. 14/4/37 Contrôleur 3; passé comme cont. 3; Cond. 53</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Kou Yong Tseng" ns2:href="31735070383389">
+                    <daodesc>
+                        <p>Kou Yong Tseng</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref107" level="item">
+                <did>
+                    <unittitle>Wang Veng Ziang</unittitle>
+                    <container id="cid5470098" type="Item" label="Photographic images">55</container>
+                </did>
+                <scopecontent id="ref160">
+                    <head>Scope and Content Notes</head>
+                    <p>Point. 28 Engagé le 19/11/38 Dém. el 1/5/39 Contrôleur 43; passé contrôleur 43 le 23/3/39</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Wang Veng Ziang" ns2:href="31735070383397">
+                    <daodesc>
+                        <p>Wang Veng Ziang</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref108" level="item">
+                <did>
+                    <unittitle>Kou Yong Zeng</unittitle>
+                    <container id="cid5470099" type="Item" label="Photographic images">56</container>
+                </did>
+                <scopecontent id="ref161">
+                    <head>Scope and Content Notes</head>
+                    <p>Pointeur 42 (P42) Passé le 2/2/30 Dém. le 9/5/39 Contrôleur 26 ex 42; passé contr. 26 le 1/7/34; cond. 19</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Kou Yong Zeng" ns2:href="31735070383405">
+                    <daodesc>
+                        <p>Kou Yong Zeng</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref109" level="item">
+                <did>
+                    <unittitle>Heu Hwa Zeng</unittitle>
+                    <container id="cid5470100" type="Item" label="Photographic images">57</container>
+                </did>
+                <scopecontent id="ref162">
+                    <head>Scope and Content Notes</head>
+                    <p>Engagé le 1/2/34 Dém. le 17/5/37 Contrôleur 12</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Heu Hwa Zeng" ns2:href="31735070383413">
+                    <daodesc>
+                        <p>Heu Hwa Zeng</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref110" level="item">
+                <did>
+                    <unittitle>Hao Hai Pao</unittitle>
+                    <container id="cid5470101" type="Item" label="Photographic images">58</container>
+                </did>
+                <scopecontent id="ref163">
+                    <head>Scope and Content Notes</head>
+                    <p>Point. 41 Engagé le 22/2/39 Renvoyé le 6/6/29</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Hao Hai Pao" ns2:href="31735070383421">
+                    <daodesc>
+                        <p>Hao Hai Pao</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref111" level="item">
+                <did>
+                    <unittitle>Y Kouo Liang</unittitle>
+                    <container id="cid5470102" type="Item" label="Photographic images">59</container>
+                </did>
+                <scopecontent id="ref164">
+                    <head>Scope and Content Notes</head>
+                    <p>Engagé le 11/11/38 Dém. le 26/7/39 Contrôleur 38</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Y Kouo Liang" ns2:href="31735070383439">
+                    <daodesc>
+                        <p>Y Kouo Liang</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref112" level="item">
+                <did>
+                    <unittitle>Ly Keng Lai</unittitle>
+                    <container id="cid5470103" type="Item" label="Photographic images">60</container>
+                </did>
+                <scopecontent id="ref165">
+                    <head>Scope and Content Notes</head>
+                    <p>Engagé le 23/5/39 Dém. le 21/9/39 Contrôleur 40</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Ly Keng Lai" ns2:href="31735070383447">
+                    <daodesc>
+                        <p>Ly Keng Lai</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref113" level="item">
+                <did>
+                    <unittitle>Seng Lou Y</unittitle>
+                    <container id="cid5470104" type="Item" label="Photographic images">61</container>
+                </did>
+                <scopecontent id="ref166">
+                    <head>Scope and Content Notes</head>
+                    <p>Engagé le 1/10/39 Renvoyé le 12/5/40 Contrôleur 40</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Seng Lou Y" ns2:href="31735070058254">
+                    <daodesc>
+                        <p>Seng Lou Y</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref114" level="item">
+                <did>
+                    <unittitle>Yang Yong Ziang</unittitle>
+                    <container id="cid5470105" type="Item" label="Photographic images">62</container>
+                </did>
+                <scopecontent id="ref167">
+                    <head>Scope and Content Notes</head>
+                    <p>Pointeur 28 Réintégré le 3 5/12/27; passé point. le 1/7/41 Revqué le 5/3/43 Cond. 188</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Yang Yong Ziang" ns2:href="31735070058262">
+                    <daodesc>
+                        <p>Yang Yong Ziang</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref115" level="item">
+                <did>
+                    <unittitle>Yang Yong Ziang</unittitle>
+                    <container id="cid5470106" type="Item" label="Photographic images">63</container>
+                </did>
+                <scopecontent id="ref168">
+                    <head>Scope and Content Notes</head>
+                    <p>Pointeur 28 Réintégré le 3 5/12/27; passé point. le 1/7/41 Revqué le 5/3/43 Cond. 188</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Yang Yong Ziang" ns2:href="31735070058270">
+                    <daodesc>
+                        <p>Yang Yong Ziang</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref116" level="item">
+                <did>
+                    <unittitle>Hang Ding Liang</unittitle>
+                    <container id="cid5470107" type="Item" label="Photographic images">64</container>
+                </did>
+                <scopecontent id="ref169">
+                    <head>Scope and Content Notes</head>
+                    <p>Point. 46 Engagé le 8/3/40; passé point. le 1/7/41 Lic. le 21/2/1942 Cond. 405</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Hang Ding Liang" ns2:href="31735070058288">
+                    <daodesc>
+                        <p>Hang Ding Liang</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref117" level="item">
+                <did>
+                    <unittitle>Zie Ah Gnie</unittitle>
+                    <container id="cid5470108" type="Item" label="Photographic images">65</container>
+                </did>
+                <scopecontent id="ref170">
+                    <head>Scope and Content Notes</head>
+                    <p>Point. 35 Engagé le 24/10/29; passé point. le 1/2/41 Dém. le 26/11/43 Contrôleur 9; passé contrôleur le 1/11/41; passé cont. 9 le 1/11/42; cond. 99</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Zie Ah Gnie" ns2:href="31735070058296">
+                    <daodesc>
+                        <p>Zie Ah Gnie</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref118" level="item">
+                <did>
+                    <unittitle>Yang Pao Keng</unittitle>
+                    <container id="cid5470109" type="Item" label="Photographic images">66</container>
+                </did>
+                <scopecontent id="ref171">
+                    <head>Scope and Content Notes</head>
+                    <p>Point. 10 Engagé le 1/8/41 Lic. le 7/12/42</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Yang Pao Keng" ns2:href="31735070058304">
+                    <daodesc>
+                        <p>Yang Pao Keng</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref119" level="item">
+                <did>
+                    <unittitle>Zie Koué Keng</unittitle>
+                    <container id="cid5470110" type="Item" label="Photographic images">67</container>
+                </did>
+                <scopecontent id="ref172">
+                    <head>Scope and Content Notes</head>
+                    <p>Point. 14 Engagé le 9/5/39; passé point. le 1/10/41 Contrôleur 22; passé contrôleur 22 le 1/2/43; cond. 157</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Zie Koué Keng" ns2:href="31735070058312">
+                    <daodesc>
+                        <p>Zie Koué Keng</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref120" level="item">
+                <did>
+                    <unittitle>Seng Yong Su</unittitle>
+                    <container id="cid5470111" type="Item" label="Photographic images">68</container>
+                </did>
+                <scopecontent id="ref173">
+                    <head>Scope and Content Notes</head>
+                    <p>Point. 41 Engagé le 29/3/38; passé point. le 9/4/41 Licencié le 16/2/43 Cond. 130</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Seng Yong Su" ns2:href="31735070058320">
+                    <daodesc>
+                        <p>Seng Yong Su</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref121" level="item">
+                <did>
+                    <unittitle>Seng Yong Su</unittitle>
+                    <container id="cid5470112" type="Item" label="Photographic images">69</container>
+                </did>
+                <scopecontent id="ref174">
+                    <head>Scope and Content Notes</head>
+                    <p>Point. 41 Engagé le 29/3/38; passé point. le 9/4/41 Licencié le 16/2/43 Cond. 130</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Seng Yong Su" ns2:href="31735070058338">
+                    <daodesc>
+                        <p>Seng Yong Su</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref122" level="item">
+                <did>
+                    <unittitle>Yang Yeu Ling</unittitle>
+                    <container id="cid5470113" type="Item" label="Photographic images">70</container>
+                </did>
+                <scopecontent id="ref175">
+                    <head>Scope and Content Notes</head>
+                    <p>Point. 10 Engagé le 1/1/43 Dém. le 16/8/43</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Yang Yeu Ling" ns2:href="31735070058346">
+                    <daodesc>
+                        <p>Yang Yeu Ling</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref123" level="item">
+                <did>
+                    <unittitle>Yang Yeu Ling</unittitle>
+                    <container id="cid5470114" type="Item" label="Photographic images">71</container>
+                </did>
+                <scopecontent id="ref176">
+                    <head>Scope and Content Notes</head>
+                    <p>Point. 10 Engagé le 1/1/43 Dém. le 16/8/43</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Yang Yeu Ling" ns2:href="31735070058353">
+                    <daodesc>
+                        <p>Yang Yeu Ling</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref124" level="item">
+                <did>
+                    <unittitle>Tseu Wei Fou</unittitle>
+                    <container id="cid5470115" type="Item" label="Photographic images">72</container>
+                </did>
+                <scopecontent id="ref177">
+                    <head>Scope and Content Notes</head>
+                    <p>Point. 47 Engagé le 15/2/39 Dém. le 4/1/44 Cond. 175</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Tseu Wei Fou" ns2:href="31735070058361">
+                    <daodesc>
+                        <p>Tseu Wei Fou</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref125" level="item">
+                <did>
+                    <unittitle>Zeng Long Yen</unittitle>
+                    <container id="cid5470116" type="Item" label="Photographic images">73</container>
+                </did>
+                <scopecontent id="ref178">
+                    <head>Scope and Content Notes</head>
+                    <p>Point. 28 Engagé le 1/4/43 Dém. le 27/1/44</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Zeng Long Yen" ns2:href="31735070058379">
+                    <daodesc>
+                        <p>Zeng Long Yen</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref126" level="item">
+                <did>
+                    <unittitle>Tchang Tsou Yu</unittitle>
+                    <container id="cid5470117" type="Item" label="Photographic images">74</container>
+                </did>
+                <scopecontent id="ref179">
+                    <head>Scope and Content Notes</head>
+                    <p>Point. 44 Engagé le 20/10/29; passé point 1/7/41 Lic. le 16/2/44 Contrôleur 47; passé cont. le 1/7/43; cond. 359</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Tchang Tsou Yu" ns2:href="31735070058387">
+                    <daodesc>
+                        <p>Tchang Tsou Yu</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref127" level="item">
+                <did>
+                    <unittitle>Sang Veng Liang</unittitle>
+                    <container id="cid5470118" type="Item" label="Photographic images">75</container>
+                </did>
+                <scopecontent id="ref180">
+                    <head>Scope and Content Notes</head>
+                    <p>Méc. 297 or 187 Engagé le 1/11/38 Dém. le 1/9/43 Décédé le 15/5/46</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Sang Veng Liang " ns2:href="31735070058395">
+                    <daodesc>
+                        <p>Sang Veng Liang </p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref128" level="item">
+                <did>
+                    <unittitle>[Unknown]</unittitle>
+                    <container id="cid5470119" type="Item" label="Photographic images">76</container>
+                </did>
+                <scopecontent id="ref181">
+                    <head>Scope and Content Notes</head>
+                    <p>P 30</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="[Unknown]
+" ns2:href="31735070058403">
+                    <daodesc>
+                        <p>[Unknown]
+</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref129" level="item">
+                <did>
+                    <unittitle>Loh You Tso??</unittitle>
+                    <container id="cid5470120" type="Item" label="Photographic images">77</container>
+                </did>
+                <scopecontent id="ref182">
+                    <head>Scope and Content Notes</head>
+                    <p>Point. 23</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Loh You Tso??" ns2:href="31735070058411">
+                    <daodesc>
+                        <p>Loh You Tso??</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref130" level="item">
+                <did>
+                    <unittitle>[Unknown]</unittitle>
+                    <container id="cid5470121" type="Item" label="Photographic images">78</container>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="[Unknown]
+" ns2:href="31735070058429">
+                    <daodesc>
+                        <p>[Unknown]
+</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref131" level="item">
+                <did>
+                    <unittitle>[Unknown]</unittitle>
+                    <container id="cid5470122" type="Item" label="Photographic images">79</container>
+                </did>
+                <scopecontent id="ref183">
+                    <head>Scope and Content Notes</head>
+                    <p>Chef conduct???</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="[Unknown]
+" ns2:href="31735070058437">
+                    <daodesc>
+                        <p>[Unknown]
+</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref132" level="item">
+                <did>
+                    <unittitle>[Unknown]</unittitle>
+                    <container id="cid5470123" type="Item" label="Photographic images">80</container>
+                </did>
+                <scopecontent id="ref184">
+                    <head>Scope and Content Notes</head>
+                    <p>P 30</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="[Unknown]" ns2:href="31735070058445">
+                    <daodesc>
+                        <p>[Unknown]</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref133" level="item">
+                <did>
+                    <unittitle>Zie King Dang</unittitle>
+                    <container id="cid5470124" type="Item" label="Photographic images">81</container>
+                </did>
+                <scopecontent id="ref185">
+                    <head>Scope and Content Notes</head>
+                    <p>Cont. 12</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Zie King Dang" ns2:href="31735070058452">
+                    <daodesc>
+                        <p>Zie King Dang</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref134" level="item">
+                <did>
+                    <unittitle>Che Yin Tang</unittitle>
+                    <container id="cid5470125" type="Item" label="Photographic images">82</container>
+                </did>
+                <scopecontent id="ref186">
+                    <head>Scope and Content Notes</head>
+                    <p>Pointeur 5</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Che Yin Tang" ns2:href="31735070058460">
+                    <daodesc>
+                        <p>Che Yin Tang</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref135" level="item">
+                <did>
+                    <unittitle>[Unknown]</unittitle>
+                    <container id="cid5470126" type="Item" label="Photographic images">83</container>
+                </did>
+                <scopecontent id="ref187">
+                    <head>Scope and Content Notes</head>
+                    <p>Pointeur 5</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="[Unknown]" ns2:href="31735070058478">
+                    <daodesc>
+                        <p>[Unknown]</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref136" level="item">
+                <did>
+                    <unittitle>Té Han Sung</unittitle>
+                    <container id="cid5470127" type="Item" label="Photographic images">84</container>
+                </did>
+                <scopecontent id="ref188">
+                    <head>Scope and Content Notes</head>
+                    <p>Pointeur 12</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Té Han Sung" ns2:href="31735070058486">
+                    <daodesc>
+                        <p>Té Han Sung</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref137" level="item">
+                <did>
+                    <unittitle>Zeng Mao Wou Dao</unittitle>
+                    <container id="cid5470128" type="Item" label="Photographic images">85</container>
+                </did>
+                <scopecontent id="ref189">
+                    <head>Scope and Content Notes</head>
+                    <p>Point. 22</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Zeng Mao Wou Dao" ns2:href="31735070058494">
+                    <daodesc>
+                        <p>Zeng Mao Wou Dao</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref138" level="item">
+                <did>
+                    <unittitle>Tang An Fou</unittitle>
+                    <container id="cid5470129" type="Item" label="Photographic images">86</container>
+                </did>
+                <scopecontent id="ref190">
+                    <head>Scope and Content Notes</head>
+                    <p>Point. 8</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Tang An Fou" ns2:href="31735070058502">
+                    <daodesc>
+                        <p>Tang An Fou</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref139" level="item">
+                <did>
+                    <unittitle>Ly Ming Leng</unittitle>
+                    <container id="cid5470130" type="Item" label="Photographic images">87</container>
+                </did>
+                <scopecontent id="ref191">
+                    <head>Scope and Content Notes</head>
+                    <p>Pointeur 23</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Ly Ming Leng" ns2:href="31735070058510">
+                    <daodesc>
+                        <p>Ly Ming Leng</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref140" level="item">
+                <did>
+                    <unittitle>Seng Yong Liang</unittitle>
+                    <container id="cid5470131" type="Item" label="Photographic images">88</container>
+                </did>
+                <scopecontent id="ref192">
+                    <head>Scope and Content Notes</head>
+                    <p>Pointeur 13</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Seng Yong Liang" ns2:href="31735070058528">
+                    <daodesc>
+                        <p>Seng Yong Liang</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref141" level="item">
+                <did>
+                    <unittitle>Sieu Pa Seng</unittitle>
+                    <container id="cid5470132" type="Item" label="Photographic images">89</container>
+                </did>
+                <scopecontent id="ref193">
+                    <head>Scope and Content Notes</head>
+                    <p>Pointeur 27</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Sieu Pa Seng" ns2:href="31735070058536">
+                    <daodesc>
+                        <p>Sieu Pa Seng</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref142" level="item">
+                <did>
+                    <unittitle>Loh Zeng Tsing</unittitle>
+                    <container id="cid5470133" type="Item" label="Photographic images">90</container>
+                </did>
+                <scopecontent id="ref194">
+                    <head>Scope and Content Notes</head>
+                    <p>Pointeur 10</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Loh Zeng Tsing" ns2:href="31735070058544">
+                    <daodesc>
+                        <p>Loh Zeng Tsing</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref143" level="item">
+                <did>
+                    <unittitle>Van Keng Seng</unittitle>
+                    <container id="cid5470134" type="Item" label="Photographic images">91</container>
+                </did>
+                <scopecontent id="ref195">
+                    <head>Scope and Content Notes</head>
+                    <p>Pointeur 28</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Van Keng Seng" ns2:href="31735070058551">
+                    <daodesc>
+                        <p>Van Keng Seng</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref144" level="item">
+                <did>
+                    <unittitle>[Unknown]</unittitle>
+                    <container id="cid5470135" type="Item" label="Photographic images">92</container>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="[Unknown]" ns2:href="31735070058569">
+                    <daodesc>
+                        <p>[Unknown]</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref145" level="item">
+                <did>
+                    <unittitle>Ly Tse Ghie</unittitle>
+                    <container id="cid5470136" type="Item" label="Photographic images">93</container>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Ly Tse Ghie" ns2:href="31735070058577">
+                    <daodesc>
+                        <p>Ly Tse Ghie</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref146" level="item">
+                <did>
+                    <unittitle>Yang Ping Vok?</unittitle>
+                    <container id="cid5470137" type="Item" label="Photographic images">94</container>
+                </did>
+                <scopecontent id="ref198">
+                    <head>Scope and Content Notes</head>
+                    <p>P. 38 Renvoyé</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Yang Ping Vok?" ns2:href="31735070058585">
+                    <daodesc>
+                        <p>Yang Ping Vok?</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref147" level="item">
+                <did>
+                    <unittitle>[Unknown]</unittitle>
+                    <container id="cid5470138" type="Item" label="Photographic images">95</container>
+                </did>
+                <scopecontent id="ref199">
+                    <head>Scope and Content Notes</head>
+                    <p>Regulateur 6</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="[Unknown]" ns2:href="31735070058593">
+                    <daodesc>
+                        <p>[Unknown]</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref148" level="item">
+                <did>
+                    <unittitle>[Unknown]</unittitle>
+                    <container id="cid5470139" type="Item" label="Photographic images">96</container>
+                </did>
+                <scopecontent id="ref200">
+                    <head>Scope and Content Notes</head>
+                    <p>Regulateur 6</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="[Unknown]" ns2:href="31735070058601">
+                    <daodesc>
+                        <p>[Unknown]</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref149" level="item">
+                <did>
+                    <unittitle>Zao ?ing Seng</unittitle>
+                    <container id="cid5470140" type="Item" label="Photographic images">97</container>
+                </did>
+                <scopecontent id="ref201">
+                    <head>Scope and Content Notes</head>
+                    <p>Point 25 Contrôleur 27</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Zao ?ing Seng" ns2:href="31735070058619">
+                    <daodesc>
+                        <p>Zao ?ing Seng</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref150" level="item">
+                <did>
+                    <unittitle>Wang Koué King</unittitle>
+                    <container id="cid5470141" type="Item" label="Photographic images">98</container>
+                </did>
+                <scopecontent id="ref202">
+                    <head>Scope and Content Notes</head>
+                    <p>Point. 22 Contrôl. 21</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Wang Koué King" ns2:href="31735070058627">
+                    <daodesc>
+                        <p>Wang Koué King</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref151" level="item">
+                <did>
+                    <unittitle>Yao King Nié</unittitle>
+                    <container id="cid5470142" type="Item" label="Photographic images">99</container>
+                </did>
+                <scopecontent id="ref203">
+                    <head>Scope and Content Notes</head>
+                    <p>Pointeur 13</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Yao King Nié" ns2:href="31735070058635">
+                    <daodesc>
+                        <p>Yao King Nié</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref152" level="item">
+                <did>
+                    <unittitle>Zao Tsou Zai</unittitle>
+                    <container id="cid5470143" type="Item" label="Photographic images">100</container>
+                </did>
+                <scopecontent id="ref204">
+                    <head>Scope and Content Notes</head>
+                    <p>Pointeur 21 Insp. 1</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Zao Tsou Zai" ns2:href="31735070058643">
+                    <daodesc>
+                        <p>Zao Tsou Zai</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref153" level="item">
+                <did>
+                    <unittitle>Yang Vong Ghie</unittitle>
+                    <container id="cid5470144" type="Item" label="Photographic images">101</container>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Yang Vong Ghie" ns2:href="31735070058650">
+                    <daodesc>
+                        <p>Yang Vong Ghie</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref154" level="item">
+                <did>
+                    <unittitle>Yeu Zang Wei</unittitle>
+                    <container id="cid5470145" type="Item" label="Photographic images">102</container>
+                </did>
+                <scopecontent id="ref206">
+                    <head>Scope and Content Notes</head>
+                    <p>Pointeur 5</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Yeu Zang Wei" ns2:href="31735070058668">
+                    <daodesc>
+                        <p>Yeu Zang Wei</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref155" level="item">
+                <did>
+                    <unittitle>[Unknown]</unittitle>
+                    <container id="cid5470146" type="Item" label="Photographic images">103</container>
+                </did>
+                <scopecontent id="ref207">
+                    <head>Scope and Content Notes</head>
+                    <p>Pointeur 11</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="[Unknown]" ns2:href="31735070058676">
+                    <daodesc>
+                        <p>[Unknown]</p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref156" level="item">
+                <did>
+                    <unittitle>[Unknown]</unittitle>
+                    <container id="cid5470147" type="Item" label="Photographic images">104</container>
+                </did>
+                <scopecontent id="ref208">
+                    <head>Scope and Content Notes</head>
+                    <p>Pointeur 11</p>
+                </scopecontent>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="[Unknown]" ns2:href="31735070058684">
+                    <daodesc>
+                        <p>[Unknown]</p>
+                    </daodesc>
+                </dao>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

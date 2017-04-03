@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="Ready_For_Scanning" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US">US-PPiU-sc201602</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    <num>SC.2016.02</num>
+                </titleproper>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>ULS Special Collections Department</publisher>
+                <address>
+                    <addressline>University of Pittsburgh Library System</addressline>
+                    <addressline>Hillman Library, Room 363</addressline>
+                    <addressline>3960 Forbes Avenue</addressline>
+                    <addressline>Pittsburgh, PA, 15260</addressline>
+                    <addressline>412-648-8190</addressline>
+                    <addressline>uls-specialcollections@mail.pitt.edu</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2016-07-25T11:51-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Julia Ann Keffer Blythe Autograph Book</unittitle>
+            <unitid>SC.2016.02</unitid>
+            <repository>
+                <corpname>ULS Special Collections Department</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>1.0 item</extent>
+            </physdesc>
+            <unitdate>ca. 1849</unitdate>
+        </did>
+        <acqinfo id="ref3">
+            <head>Acquisition Information</head>
+            <p>Gift of Katherine (Bonner) Drews on April 25, 2016.</p>
+        </acqinfo>
+        <custodhist id="ref2">
+            <head>Custodial History</head>
+            <p>The Autograph Album belonged to Julia Ann Keffer Blythe (1824-1849). She was the wife of David Gilmour Blythe (1815-1865).</p>
+            <p>After Julia died, David Blythe wrote poetic remarks under some of the autographs. He also made a drawing of Julia on the inside of the back cover. To our knowledge, this may be hte only Blythe drawing of Julia. The book is 7 3/4" tall, 6 inches wide, and about 1/2" thick.</p>
+            <p>This Autograph Album came to David Blythe after his wife Julia's death in 1849. After he wrote his remarks, Mr. Blythe gave the book to Ferdinand Keffer, Julia's older brother. The book has been passed down through the family over the years from Ferdinand Keffer (1815-1891) to Ferdinand's daughter, Mary Imogene (Keffer) Agner (1861-1908) then to Mary Imogene's daughter, Henriette (Agner) Kelly (1855 - 1979) to Henriette's daughter, Mary Eleanor (Kelly) Bonner (1916-2004), and ultimately to Mary Eleanor's daughter, Katherine (Bonner) Drews (1942 - ). In 1980, Mary Eleanor Bonner loaned the Autograph Album to the Smithsonian Institution for microfilming at the time of the Smithsonian exhibit, "The World of David Gilmour Blythe".</p>
+        </custodhist>
+        <dsc>
+            <c01 id="ref1" level="item">
+                <did>
+                    <unittitle>Autograph Book,</unittitle>
+                    <container id="cid5517002" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid5517002" type="Folder">1</container>
+                    <unitdate>ca. 1849</unitdate>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Autograph Book," ns2:href="31735068223837">
+                    <daodesc>
+                        <p>Autograph Book,, ca. 1849 </p>
+                    </daodesc>
+                </dao>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

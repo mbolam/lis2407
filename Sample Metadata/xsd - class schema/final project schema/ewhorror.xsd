@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    targetNamespace="http://www.pitt.edu/~mrbst20/myCollection"
+    xmlns:ewhorror="http://www.pitt.edu/~mrbst20/myCollection"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:mods="http://www.loc.gov/mods/v3" 
+    xmlns:vra="http://www.vraweb.org/vracore4.htm" 
+    elementFormDefault="qualified">
+    
+    <xs:import namespace="http://purl.org/dc/elements/1.1/" schemaLocation="http://dublincore.org/schemas/xmls/qdc/dc.xsd"/>
+    <xs:import namespace="http://purl.org/dc/terms/" schemaLocation="http://dublincore.org/schemas/xmls/qdc/dcterms.xsd" />
+    <xs:import namespace="http://www.loc.gov/mods/v3" schemaLocation="http://www.loc.gov/standards/mods/v3/mods-3-6.xsd"/>
+    <xs:import namespace="http://www.vraweb.org/vracore4.htm" schemaLocation="http://www.loc.gov/standards/vracore/vra.xsd"/>
+<!--<xs:import namespace="http://www.vraweb.org/vracore4.htm" schemaLocation="http://www.loc.gov/standards/vracore/vra-strict.xsd"/>-->
+    
+    <xs:element name="eastWestHorror">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="eastWest" type="xs:string" maxOccurs="unbounded"/>
+                <xs:element name="subgenre" type="xs:string" maxOccurs="unbounded"/>
+                <xs:element name="rating" type="xs:string" maxOccurs="unbounded"/>
+                <xs:element name="warning" type="xs:string" maxOccurs="unbounded" />
+                <xs:element ref="ewhorror:modsSection" minOccurs="0"/>
+                <xs:element ref="ewhorror:dcSection" minOccurs="0" />
+                <xs:element ref="ewhorror:vraSection" minOccurs="0" />
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    
+    
+    <xs:element name="modsSection">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="mods:mods" />
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    
+    <xs:element name="dcSection">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:sequence>
+                    <xs:element ref="dc:any" maxOccurs="unbounded" />
+                </xs:sequence>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    
+    <xs:element name="vraSection">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="vra:work" minOccurs="0"/>
+                <xs:element ref="vra:image" minOccurs="0"/>
+                <xs:element ref="vra:collection" minOccurs="0"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+
+
+
+
+
+
+</xs:schema>

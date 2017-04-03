@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="In_DRL" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US">US-PPiU-ais196504</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the McConway and Torely Company Records, 1889-1945
+                    <num>AIS.1965.04</num>
+                </titleproper>
+                <author>Finding aid prepared by Jeffrey M. Flannery. Revisions occurred to the finding aid as a part of the encoding process on January 29, 2003.</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>ULS Archives Service Center</publisher>
+                <address>
+                    <addressline>University of Pittsburgh Library System</addressline>
+                    <addressline>7500 Thomas Boulevard</addressline>
+                    <addressline>Pittsburgh, PA, 15260</addressline>
+                    <addressline>412-648-3232</addressline>
+                    <addressline>archives-ref@mail.pitt.edu</addressline>
+                </address>
+                <date>January 1985</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2016-07-13T11:17-0400</date>
+            </creation>
+            <langusage>English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+        <revisiondesc>
+            <change>
+                <date>July 1, 2006</date>
+                <item></item>
+            </change>
+        </revisiondesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>McConway &amp; Torely Company Records</unittitle>
+            <unitid>AIS.1965.04</unitid>
+            <repository>
+                <corpname>ULS Archives Service Center</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>3.75 linear feet</extent>
+                <extent>(4 boxes)</extent>
+            </physdesc>
+            <unitdate normal="1889/1945" type="inclusive">1889-1945</unitdate>
+            <abstract id="ref2" label="Abstract">The McConway and Torley Company began in Pittsburgh in 1869 designing train couplers. This collection contains historical information, photographs, brochures, scrapbooks, catalogs, publications, patent applications and patent examinations concerning the train coupler industry.</abstract>
+            <origination label="creator">
+                <corpname rules="aacr" source="local">McConway &amp; Torely Company.</corpname>
+            </origination>
+        </did>
+        <arrangement id="ref43">
+            <head>Arrangement</head>
+            <p>Series I. History, 1945</p>
+            <p>Series II. Photographs, Atlantic City convention, 1947</p>
+            <p>Series III. Brochures, 1947</p>
+            <p>Series IV. Scrapbooks, 1891-1897</p>
+            <p>Series V. Catalogs, 1895-1948</p>
+            <p>Series VI. Publications, 1889-1943</p>
+            <p>Series VII. Patent Applications, 1905-1943</p>
+            <p>Series VIII. Patent Examinations, 1897-1924</p>
+            <p>Series IX. Plans, 1893-1906</p>
+        </arrangement>
+        <bioghist id="ref3">
+            <head>History</head>
+            <p>The McConway and Torely Company partnership began in 1869 and played an integral role in the design and manufacturing of train couplers used to connect several train cars. While arriving in the city of Pittsburgh in the same year, 1849, the owners origins were quite different. William McConway Sr. was born in Ireland in 1843 and John J. Torely was born in New York City in 1830. During his life, McConway was involved in many diverse areas including Captain in the Union Army, Allegheny City Select Councilman, Trustee of Carnegie Tech, and was associated with Andrew Carnegie in the building of Carnegie Tech. This company designed, created and manufactured the state of the art Pitt Passenger Coupler which was operated successfully and used extensively on passenger equipment in service during the 19th century.</p>
+        </bioghist>
+        <scopecontent id="ref4">
+            <head>Scope and Content Notes</head>
+            <p>This collection covers the years of 1889-1945 and is arranged in nine series consisting primarily of historical information, photographs, brochures, scrapbooks, catalogs, publications, patent applications and patent examinations. Note that, plans in series IX are in microfiche format.</p>
+        </scopecontent>
+        <accessrestrict id="ref5">
+            <head>Access Restrictions</head>
+            <p>No restrictions.</p>
+        </accessrestrict>
+        <acqinfo id="ref6">
+            <head>Acquisition Information</head>
+            <p>Gift of Donald L.Baughman, Manager of Engineering, McConway and Torley in 1965.</p>
+        </acqinfo>
+        <altformavail id="ref7">
+            <head>Existence and Location of Copies</head>
+            <p>Series IX is in Microfiche format.</p>
+        </altformavail>
+        <prefercite id="ref8">
+            <head>Preferred Citation</head>
+            <p>McConway and Torely Company Records, 1889-1948, AIS.1965.04, Archives Service Center, University of Pittsburgh</p>
+        </prefercite>
+        <processinfo id="ref9">
+            <head>Processing Information</head>
+            <p>This collection was processed by Jeffery M. Flannery in January 1985.</p>
+        </processinfo>
+        <userestrict id="ref10">
+            <head>Copyright</head>
+            <p>Permission for publication is given on behalf of the University of Pittsburgh as the owner of the physical items and is not intended to include or imply permission of the copyright holder, which must also be obtained.</p>
+        </userestrict>
+        <controlaccess>
+            <corpname rules="aacr" source="local">McConway &amp; Torely Company.</corpname>
+            <subject source="ulstag">Business and Industry</subject>
+            <geogname source="lcsh">Manufactures -- Pennsylvania -- Pittsburgh</geogname>
+            <subject source="lcsh">Railroad equipment industry -- Pennsylvania -- Pittsburgh</subject>
+            <subject source="lcsh">Railroads -- Pennsylvania -- Pittsburgh</subject>
+            <subject source="ulstag">Transportation</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref11" level="series">
+                <did>
+                    <unittitle>History,</unittitle>
+                    <unitid>I.</unitid>
+                    <unitdate>1945</unitdate>
+                </did>
+                <c02 id="ref36" level="file">
+                    <did>
+                        <unittitle>History,</unittitle>
+                        <container id="cid235001" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid235001" type="Folder">1</container>
+                        <unitdate>1945</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref12" level="series">
+                <did>
+                    <unittitle>Photographs, Atlantic City Convention,</unittitle>
+                    <unitid>II.</unitid>
+                    <unitdate>1947</unitdate>
+                </did>
+                <c02 id="ref37" level="file">
+                    <did>
+                        <unittitle>Atlantic City Convention, Photographs,</unittitle>
+                        <container id="cid235002" type="Folder" label="Mixed materials">2</container>
+                        <unitdate>1947</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref13" level="series">
+                <did>
+                    <unittitle>Brochure,</unittitle>
+                    <unitid>III.</unitid>
+                    <unitdate>1947</unitdate>
+                </did>
+                <c02 id="ref40" level="file">
+                    <did>
+                        <unittitle>Multiple-Load Truck, Brochure,</unittitle>
+                        <container id="cid235005" type="Folder" label="Mixed materials">3</container>
+                        <unitdate>1947</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref14" level="series">
+                <did>
+                    <unittitle>Scrapbooks,</unittitle>
+                    <unitid>IV.</unitid>
+                    <unitdate>1891-1897</unitdate>
+                </did>
+                <c02 id="ref38" level="file">
+                    <did>
+                        <unittitle>Scrapbook,</unittitle>
+                        <container id="cid235003" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid235003" type="Volume">1</container>
+                        <unitdate>1891-1892</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref39" level="file">
+                    <did>
+                        <unittitle>Scrapbook, Henry Romeike's Press Cuttings,</unittitle>
+                        <container id="cid235004" type="Volume" label="Mixed materials">2</container>
+                        <unitdate>1892-1897</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref15" level="series">
+                <did>
+                    <unittitle>Catalogs,</unittitle>
+                    <unitid>V.</unitid>
+                    <unitdate>1895-1948</unitdate>
+                </did>
+                <c02 id="ref16" level="file">
+                    <did>
+                        <unittitle>M.C.B. Couplers,</unittitle>
+                        <container id="cid42299" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid42299" type="Volume">3</container>
+                        <unitdate>1905</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref17" level="file">
+                    <did>
+                        <unittitle>The Janney Coupler,</unittitle>
+                        <container id="cid42298" type="Volume" label="Mixed materials">4</container>
+                        <unitdate>1895, 1919</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref42" level="file">
+                    <did>
+                        <unittitle>The Janney-Penn Coupler, Catalog C,</unittitle>
+                        <container id="cid235006" type="Volume" label="Mixed materials">5</container>
+                        <unitdate>1919</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref18" level="file">
+                    <did>
+                        <unittitle>Catalog and price list, Janney material,</unittitle>
+                        <container id="cid42297" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid42297" type="Volume">1</container>
+                        <unitdate>n.d.</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref19" level="file">
+                    <did>
+                        <unittitle>Draft for catalog,</unittitle>
+                        <container id="cid42296" type="Folder" label="Mixed materials">1</container>
+                        <unitdate>1920</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref20" level="file">
+                    <did>
+                        <unittitle>The Pitt Pivoted Passenger Coupler,</unittitle>
+                        <container id="cid42295" type="Folder" label="Mixed materials">2</container>
+                        <unitdate>1920</unitdate>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="The Pitt Pivoted Passenger Coupler," ns2:href="31735070058734">
+                        <daodesc>
+                            <p>The Pitt Pivoted Passenger Coupler,, 1920 </p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref21" level="file">
+                    <did>
+                        <unittitle>Car Repairman's Guide,</unittitle>
+                        <container id="cid42294" type="Folder" label="Mixed materials">3</container>
+                        <unitdate>1925</unitdate>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Car Repairman's Guide," ns2:href="31735070058742">
+                        <daodesc>
+                            <p>Car Repairman's Guide,, 1925 </p>
+                        </daodesc>
+                    </dao>
+                </c02>
+                <c02 id="ref22" level="file">
+                    <did>
+                        <unittitle>Multiple-load rail truck, drawings and advertisement in Railroad Equipment,</unittitle>
+                        <container id="cid42293" type="Folder" label="Mixed materials">4</container>
+                        <unitdate>1948</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref23" level="series">
+                <did>
+                    <unittitle>Publications,</unittitle>
+                    <unitid>VI.</unitid>
+                    <unitdate>1889-1943</unitdate>
+                </did>
+                <c02 id="ref24" level="file">
+                    <did>
+                        <unittitle>The Evolution of Car Couplings,</unittitle>
+                        <container id="cid42292" type="Folder" label="Mixed materials">5</container>
+                        <unitdate>1905</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref25" level="file">
+                    <did>
+                        <unittitle>The Janney Radial Coupler,</unittitle>
+                        <container id="cid42291" type="Folder" label="Mixed materials">6</container>
+                        <unitdate>1905</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref26" level="file">
+                    <did>
+                        <unittitle>Muller vs. Janney. A statement of the Information of All Railroad Companies Using the Janney Coupler, Platform, and Buffers,</unittitle>
+                        <container id="cid42290" type="Folder" label="Mixed materials">7</container>
+                        <unitdate>1889</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref27" level="series">
+                <did>
+                    <unittitle>Patent Applications,</unittitle>
+                    <unitid>VII.</unitid>
+                    <unitdate> 1905-1943 	</unitdate>
+                </did>
+                <c02 id="ref28" level="file">
+                    <did>
+                        <unittitle>Patent, Volume 1-10,</unittitle>
+                        <container id="cid42289" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid42289" type="Volume">1-10</container>
+                        <unitdate>1905-1943</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref29" level="file">
+                    <did>
+                        <unittitle>"Spring Support for Railway",</unittitle>
+                        <container id="cid42288" type="Folder" label="Mixed materials">1-2</container>
+                        <unitdate>1939, 1941</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref30" level="file">
+                    <did>
+                        <unittitle>Report on Patent Applications Aquired by Zimmerman Steele Co.,</unittitle>
+                        <container id="cid42287" type="Folder" label="Mixed materials">3</container>
+                        <unitdate>1942</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref31" level="file">
+                    <did>
+                        <unittitle>4WTA Report,</unittitle>
+                        <container id="cid42286" type="Folder" label="Mixed materials">4</container>
+                        <unitdate>June 19, 1943</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref32" level="series">
+                <did>
+                    <unittitle>Patent Examinations,</unittitle>
+                    <unitid>VIII.</unitid>
+                    <unitdate>1897-1924</unitdate>
+                </did>
+                <c02 id="ref33" level="file">
+                    <did>
+                        <unittitle>Patent Examinations,</unittitle>
+                        <container id="cid42285" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid42285" type="Volume">1-12</container>
+                        <unitdate>1897-1924</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref34" level="series">
+                <did>
+                    <unittitle>Plans,</unittitle>
+                    <unitid>IX.</unitid>
+                    <unitdate>1893-1906</unitdate>
+                </did>
+                <c02 id="ref35" level="file">
+                    <did>
+                        <unittitle>Plans, in Microfiche format,</unittitle>
+                        <container id="cid235007" type="Microfiche-cabinet" label="Mixed materials">1</container>
+                        <container parent="cid235007" type="Drawer">8</container>
+                        <unitdate>1893-1906</unitdate>
+                    </did>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

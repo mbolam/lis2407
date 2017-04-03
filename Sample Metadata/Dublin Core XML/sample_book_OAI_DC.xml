@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oai_dc:dc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd"
+    xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    
+    <dc:creator>Miller, Steven J.</dc:creator>
+    <dc:title>Metadata for Digital Collections: A How-To-Do-It Manual</dc:title>
+    <dc:relation>A How-To-Do-It Manual</dc:relation>
+    <dc:publisher>Neal-Schuman Publishers, Inc.</dc:publisher>
+    <dc:description>This practical, hands-on volume will make it easy for readers to acquire the knowledge and skil ls they need, whether they use the book on the job or in a classroom. Author Steven Miller introduces readers to funda mental concepts and practices in a style accessible to beginners and LIS students, as well as experienced practitioner s with little metadata training. He also takes account of the widespread use of digital collection management systems such as CONTENTdm.</dc:description>
+    <dc:identifier>987-1-55570-746-0</dc:identifier>
+    <dc:subject>Cataloging of electronic information resources--Standards</dc:subject>
+    <dc:subject>Metadata--Standards</dc:subject>
+    <dc:subject>Dublin Core</dc:subject>
+    <dc:date>2011</dc:date>
+    <dc:type>Text</dc:type>
+    <dc:format>book</dc:format>
+    <dc:relation>http://www.neil-schuman.com/metadata-digital-collections</dc:relation>
+    <dc:language>eng</dc:language>
+
+</oai_dc:dc>

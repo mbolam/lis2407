@@ -1,0 +1,700 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="To_Be_Reviewed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US">US-PPiU-ais201506</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the Railroad Stock Certificate Collection, 1857-1970
+                    <num>AIS.2015.06</num>
+                </titleproper>
+                <author>Finding aid prepared by Miriam Meislik.</author>
+            </titlestmt>
+            <editionstmt>
+                <p>Railroads Stock certificates Railroad companies Business and Industry Transportation</p>
+            </editionstmt>
+            <publicationstmt>
+                <publisher>ULS Archives Service Center</publisher>
+                <address>
+                    <addressline>University of Pittsburgh Library System</addressline>
+                    <addressline>7500 Thomas Boulevard</addressline>
+                    <addressline>Pittsburgh, PA, 15260</addressline>
+                    <addressline>412-648-3232</addressline>
+                    <addressline>archives-ref@mail.pitt.edu</addressline>
+                </address>
+                <date>June 2016</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2016-06-17T09:33-0400</date>
+            </creation>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Railroad Stock Certificate Collection</unittitle>
+            <unitid>AIS.2015.06</unitid>
+            <repository>
+                <corpname>ULS Archives Service Center</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>0.5 linear feet</extent>
+            </physdesc>
+            <unitdate>1857-1970</unitdate>
+            <abstract id="ref1" label="Abstract">This collection contains 51 stock certificates dating from 1857 to 1970 documenting the history of railroads in western Pennsylvania. Also included are various items such as correspondence, bills of lading, telegrams, valuation of baggage tickets, dividend check, a lease, and employee transit passes for the Pennsylvania Railroad Lines West of Pittsburgh.</abstract>
+        </did>
+        <accessrestrict id="ref2">
+            <head>Access Restrictions</head>
+            <p>No restrictions.</p>
+        </accessrestrict>
+        <scopecontent id="ref8">
+            <head>Scope and Content Notes</head>
+            <p>Fifty-one stock certificates dating from 1857 to 1970 documenting the history of railroads in western Pennsylvania. Also included are various items such as correspondence, bills of lading, telegrams, valuation of baggage tickets, dividend check, a lease, and employee transit passes for the Pennsylvania Railroad Lines West of Pittsburgh.</p>
+        </scopecontent>
+        <acqinfo id="ref3">
+            <head>Acquisition Information</head>
+            <p>Gift of Ken Kobus on June 2015.</p>
+        </acqinfo>
+        <arrangement id="ref4">
+            <head>Arrangement</head>
+            <p>Stock certificates are arranged chronologically accordingto railroad division. Additonal manuscript items are arranged by item type and date.</p>
+        </arrangement>
+        <bioghist id="ref5">
+            <head>History</head>
+            <p>Something about history of the railroads is to go here. Will be supplied by Ken Kobus</p>
+        </bioghist>
+        <userestrict id="ref6">
+            <head>Copyright</head>
+            <p>No copyright restrictions.</p>
+        </userestrict>
+        <prefercite id="ref7">
+            <head>Preferred Citation</head>
+            <p>Railroad Stock Certificate Collection, AIS.2015.06, 1857-1970, Archives Service Center, University of Pittsburgh</p>
+        </prefercite>
+        <dsc>
+            <c01 id="ref9" level="item">
+                <did>
+                    <unittitle>Cleveland, Painesville and Ashtabula R. R. Co. Stock Certificate,</unittitle>
+                    <container id="cid5468002" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid5468002" type="Folder">1</container>
+                    <unitdate>February 16, 1857</unitdate>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Cleveland, Painesville and Ashtabula R. R. Co. Stock Certificate," ns2:href="31735070382084">
+                    <daodesc>
+                        <p>Cleveland, Painesville and Ashtabula R. R. Co. Stock Certificate,, July 16, 1857 </p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref10" level="item">
+                <did>
+                    <unittitle>New Castle &amp; Beaver Valley R.R. Co. Stock Certificate,</unittitle>
+                    <container id="cid5468005" type="Folder" label="Mixed materials">2</container>
+                    <unitdate>April 21, 1876</unitdate>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="New Castle &amp; Beaver Valley R.R. Co. Stock Certificate," ns2:href="31735070382092">
+                    <daodesc>
+                        <p>New Castle &amp; Beaver Valley R.R. Co. Stock Certificate,, April 21, 1876 </p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref11" level="item">
+                <did>
+                    <unittitle>Pennsylvania Company Stock Certificate,</unittitle>
+                    <container id="cid5468004" type="Folder" label="Mixed materials">3</container>
+                    <unitdate>May 25, 1876</unitdate>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Pennsylvania Company Stock Certificate," ns2:href="31735070382100">
+                    <daodesc>
+                        <p>Pennsylvania Company Stock Certificate,, May 25, 1876 </p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref12" level="item">
+                <did>
+                    <unittitle>Western New York and Pennsylvania Railway Co. Stock Certificate,</unittitle>
+                    <container id="cid5468008" type="Folder" label="Mixed materials">4</container>
+                    <unitdate>May 15, 1895</unitdate>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Western New York and Pennsylvania Railway Co. Stock Certificate" ns2:href="31735070382118">
+                    <daodesc>
+                        <p>Western New York and Pennsylvania Railway Co. Stock Certificate, May 15, 1895 </p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref13" level="item">
+                <did>
+                    <unittitle>Pittsburgh, Wheeling and Kentucky Railway Co. Stock Certificate,</unittitle>
+                    <container id="cid5468010" type="Folder" label="Mixed materials">5</container>
+                    <unitdate>February 1,1907</unitdate>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Pittsburgh, Wheeling and Kentucky Railway Co. Stock Certificate," ns2:href="31735070382126">
+                    <daodesc>
+                        <p>Pittsburgh, Wheeling and Kentucky Railway Co. Stock Certificate,, February 1,1907 </p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref14" level="item">
+                <did>
+                    <unittitle>Pittsburgh, Youngstown and Ashtabula Railway Co. Stock Certificate,</unittitle>
+                    <container id="cid5468012" type="Folder" label="Mixed materials">6</container>
+                    <unitdate>September 28, 1938</unitdate>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Pittsburgh, Youngstown and Ashtabula Railway Co. Stock Certificate," ns2:href="31735070382134">
+                    <daodesc>
+                        <p>Pittsburgh, Youngstown and Ashtabula Railway Co. Stock Certificate,, September 28, 1938 </p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref15" level="item">
+                <did>
+                    <unittitle>Ohio Connecting Railway Co. Stock Certificate,</unittitle>
+                    <container id="cid5468013" type="Folder" label="Mixed materials">7</container>
+                    <unitdate>April 20, 1953</unitdate>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Ohio Connecting Railway Co. Stock Certificate," ns2:href="31735070382142">
+                    <daodesc>
+                        <p>Ohio Connecting Railway Co. Stock Certificate,, April 20, 1953 </p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref16" level="file">
+                <did>
+                    <unittitle>Cleveland and Pittsburgh Railroad Co. Stock Certificate,</unittitle>
+                    <container id="cid5468016" type="Folder" label="Mixed materials">8</container>
+                    <unitdate>January 16,1962</unitdate>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Cleveland and Pittsburgh Railroad Co. Stock Certificate," ns2:href="31735070382159">
+                    <daodesc>
+                        <p>Cleveland and Pittsburgh Railroad Co. Stock Certificate,, January 16,1962 </p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref17" level="item">
+                <did>
+                    <unittitle>Pennsylvania Company Stock Certificate,</unittitle>
+                    <container id="cid5468018" type="Folder" label="Mixed materials">9</container>
+                    <unitdate>August 24,1964</unitdate>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Pennsylvania Company Stock Certificate," ns2:href="31735070382167">
+                    <daodesc>
+                        <p>Pennsylvania Company Stock Certificate,, August 24,1964 </p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref18" level="item">
+                <did>
+                    <unittitle>Erie and Pittsburgh Railroad Company Stock Certificate,</unittitle>
+                    <container id="cid5468020" type="Folder" label="Mixed materials">10</container>
+                    <unitdate>March 7, 1968</unitdate>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Erie and Pittsburgh Railroad Company Stock Certificate," ns2:href="31735070382175">
+                    <daodesc>
+                        <p>Erie and Pittsburgh Railroad Company Stock Certificate,, March 7, 1968 </p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref19" level="item">
+                <did>
+                    <unittitle>Erie and Pittsburgh Railroad Company Stock Certificate,</unittitle>
+                    <container id="cid5468021" type="Folder" label="Mixed materials">11</container>
+                    <unitdate>ca.1968- 1970</unitdate>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Erie and Pittsburgh Railroad Company Stock Certificate," ns2:href="31735070382183">
+                    <daodesc>
+                        <p>Erie and Pittsburgh Railroad Company Stock Certificate,, ca.1968- 1970 </p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref20" level="item">
+                <did>
+                    <unittitle>Pennsylvania Company Stock Certificate,</unittitle>
+                    <container id="cid5468024" type="Folder" label="Mixed materials">12</container>
+                    <unitdate>May 15,1969</unitdate>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Pennsylvania Company Stock Certificate," ns2:href="31735070382191">
+                    <daodesc>
+                        <p>Pennsylvania Company Stock Certificate,, May 15,1969 </p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref21" level="item">
+                <did>
+                    <unittitle>Pennsylvania Company Sinking Fund Bond,</unittitle>
+                    <container id="cid5468025" type="Folder" label="Mixed materials">13</container>
+                    <unitdate>August 25, 1970</unitdate>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Pennsylvania Company Sinking Fund Bond," ns2:href="31735070382209">
+                    <daodesc>
+                        <p>Pennsylvania Company Sinking Fund Bond,, August 25, 1970 </p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref23" level="file">
+                <did>
+                    <unittitle>Western Pennsylvania Railroad Stock Certificate,</unittitle>
+                    <container id="cid5468029" type="Folder" label="Mixed materials">14</container>
+                    <unitdate>April 5,1860</unitdate>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Western Pennsylvania Railroad Stock Certificate," ns2:href="31735070381987">
+                    <daodesc>
+                        <p>Western Pennsylvania Railroad Stock Certificate,, April 5,1860 </p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref24" level="file">
+                <did>
+                    <unittitle>Allegheny Valley Railroad Stock Certificate,</unittitle>
+                    <container id="cid5468032" type="Folder" label="Mixed materials">15</container>
+                    <unitdate>September 28, 1866</unitdate>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Allegheny Valley Railroad Stock Certificate," ns2:href="31735070381995">
+                    <daodesc>
+                        <p>Allegheny Valley Railroad Stock Certificate,, September 28, 1866 </p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref25" level="file">
+                <did>
+                    <unittitle>Pennsylvania Railroad Company Stock Certificate,</unittitle>
+                    <container id="cid5468033" type="Folder" label="Mixed materials">16</container>
+                    <unitdate>1868</unitdate>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Pennsylvania Railroad Stock Certificate," ns2:href="31735070382001">
+                    <daodesc>
+                        <p>Pennsylvania Railroad Stock Certificate,, 1868 </p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref26" level="item">
+                <did>
+                    <unittitle>Pennsylvania Railroad Company Stock Certificate,</unittitle>
+                    <container id="cid5468035" type="Folder" label="Mixed materials">17</container>
+                    <unitdate>June 1868</unitdate>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Pennsylvania Railroad Stock Certificate," ns2:href="31735070382019">
+                    <daodesc>
+                        <p>Pennsylvania Railroad Stock Certificate,, June 1868 </p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref27" level="item">
+                <did>
+                    <unittitle>Western Pennsylvania Railroad Company Stock Certificate,</unittitle>
+                    <container id="cid5468037" type="Folder" label="Mixed materials">18</container>
+                    <unitdate>April 5, 1860</unitdate>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Western Pennsylvania Railroad Company Stock Certificate," ns2:href="31735070382027">
+                    <daodesc>
+                        <p>Western Pennsylvania Railroad Company Stock Certificate,, April 5, 1860 </p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref28" level="item">
+                <did>
+                    <unittitle>Pittsburgh, Virginia and Charleston Railway Co. Stock Certificate,</unittitle>
+                    <container id="cid5468039" type="Folder" label="Mixed materials">19</container>
+                    <unitdate>May 14, 1890</unitdate>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Pittsburgh, Virginia and Charleston Railway Co. Stock Certificate," ns2:href="31735070382035">
+                    <daodesc>
+                        <p>Pittsburgh, Virginia and Charleston Railway Co. Stock Certificate,, May 14, 1890 </p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref29" level="item">
+                <did>
+                    <unittitle>Pennsylvania Railroad Stock Certificate,</unittitle>
+                    <container id="cid5468041" type="Folder" label="Mixed materials">20</container>
+                    <unitdate>April 26, 1913</unitdate>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Pennsylvania Railroad Stock Certificate," ns2:href="31735070382043">
+                    <daodesc>
+                        <p>Pennsylvania Railroad Stock Certificate,, April 26, 1913 </p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref30" level="item">
+                <did>
+                    <unittitle>Pennsylvania Railroad Stock Certificate,</unittitle>
+                    <container id="cid5468043" type="Folder" label="Mixed materials">21</container>
+                    <unitdate>February 7, 1917</unitdate>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Pennsylvania Railroad Stock Certificate," ns2:href="31735070382050">
+                    <daodesc>
+                        <p>Pennsylvania Railroad Stock Certificate,, February 7, 1917 </p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref61" level="file">
+                <did>
+                    <unittitle>Pennsylvania Railroad Stock Certificate,</unittitle>
+                    <container id="cid5468103" type="Folder" label="Mixed materials">22</container>
+                    <unitdate>August 13, 1951</unitdate>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Pennsylvania Railroad Stock Certificate," ns2:href="31735070382068">
+                    <daodesc>
+                        <p>Pennsylvania Railroad Stock Certificate,, August 13, 1951 </p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref31" level="item">
+                <did>
+                    <unittitle>Pennsylvania Railroad Company Stock Certificate,</unittitle>
+                    <container id="cid5468046" type="Folder" label="Mixed materials">23</container>
+                    <unitdate>June 5, 1959</unitdate>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Pennsylvania Railroad Company Stock Certificate," ns2:href="31735070382076">
+                    <daodesc>
+                        <p>Pennsylvania Railroad Company Stock Certificate,, June 5, 1959 </p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref32" level="file">
+                <did>
+                    <unittitle>Ohio &amp; Pennsylvania R.R. Co. Stock Certificate,</unittitle>
+                    <container id="cid5468047" type="Folder" label="Mixed materials">24</container>
+                    <unitdate>October 11, 1853</unitdate>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Ohio &amp; Pennsylvania R.R. Co. Stock Certificate," ns2:href="31735070381896">
+                    <daodesc>
+                        <p>Ohio &amp; Pennsylvania R.R. Co. Stock Certificate,, October 11, 1853 </p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref33" level="file">
+                <did>
+                    <unittitle>Steubenville and Indiana Railroad Company Stock Certificate,</unittitle>
+                    <container id="cid5468049" type="Folder" label="Mixed materials">25</container>
+                    <unitdate>ca. 1850</unitdate>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Steubenville and Indiana Railroad Company stock Certificate," ns2:href="31735070381904">
+                    <daodesc>
+                        <p>Steubenville and Indiana Railroad Company stock Certificate,, ca. 1850 </p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref34" level="item">
+                <did>
+                    <unittitle>Fort Wayne &amp; Chicago Railroad Co. Stock Certificate,</unittitle>
+                    <container id="cid5468052" type="Folder" label="Mixed materials">26</container>
+                    <unitdate>March 29, 1860</unitdate>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Fort Wayne &amp; Chicago Railroad Co. Stock Certificate," ns2:href="31735070381912">
+                    <daodesc>
+                        <p>Fort Wayne &amp; Chicago Railroad Co. Stock Certificate,, March 29, 1860 </p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref35" level="file">
+                <did>
+                    <unittitle>Ohio &amp; Indiana Railroad Co. Stock Certificate,</unittitle>
+                    <container id="cid5468054" type="Folder" label="Mixed materials">27</container>
+                    <unitdate>January 10, 1856</unitdate>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Ohio &amp; Indiana Railroad Co. Stock Certificate," ns2:href="31735070381920">
+                    <daodesc>
+                        <p>Ohio &amp; Indiana Railroad Co. Stock Certificate,, January 10, 1856 </p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref36" level="item">
+                <did>
+                    <unittitle>Pittsburgh, Fort Wayne and Chicago Railroad Co. Stock Certificate,</unittitle>
+                    <container id="cid5468055" type="Folder" label="Mixed materials">28</container>
+                    <unitdate>March 29, 1860</unitdate>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Pittsburgh, Fort Wayne and Chicago Railroad Co. Stock Certificate," ns2:href="31735070381938">
+                    <daodesc>
+                        <p>Pittsburgh, Fort Wayne and Chicago Railroad Co. Stock Certificate,, March 29, 1860 </p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref37" level="item">
+                <did>
+                    <unittitle>Pittsburgh, Fort Wayne and Chicago Railroad Co. Stock Certificate,</unittitle>
+                    <container id="cid5468058" type="Folder" label="Mixed materials">29</container>
+                    <unitdate>October 3, 1906</unitdate>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Pittsburgh, Fort Wayne and Chicago Railroad Co. Stock Certificate," ns2:href="31735070381946">
+                    <daodesc>
+                        <p>Pittsburgh, Fort Wayne and Chicago Railroad Co. Stock Certificate,, October 3, 1906 </p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref38" level="item">
+                <did>
+                    <unittitle>Pittsburgh, Fort Wayne and Chicago Railroad Co. Stock Certificate,</unittitle>
+                    <container id="cid5468059" type="Folder" label="Mixed materials">30</container>
+                    <unitdate>November 11, 1956</unitdate>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Pittsburgh, Fort Wayne and Chicago Railroad Co. Stock Certificate," ns2:href="31735070381953">
+                    <daodesc>
+                        <p>Pittsburgh, Fort Wayne and Chicago Railroad Co. Stock Certificate,, November 11, 1956 </p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref39" level="item">
+                <did>
+                    <unittitle>Pittsburgh, Fort Wayne and Chicago Railroad Co. Stock Certificate,</unittitle>
+                    <container id="cid5468062" type="Folder" label="Mixed materials">31</container>
+                    <unitdate>ca. 1900</unitdate>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Pittsburgh, Fort Wayne and Chicago Railroad Co. Stock Certificate," ns2:href="31735070381961">
+                    <daodesc>
+                        <p>Pittsburgh, Fort Wayne and Chicago Railroad Co. Stock Certificate,, ca. 1900 </p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref40" level="item">
+                <did>
+                    <unittitle>Pittsburgh, Fort Wayne and Chicago Railroad Co. Stock Certificate,</unittitle>
+                    <container id="cid5468063" type="Folder" label="Mixed materials">32</container>
+                    <unitdate>ca. 1900</unitdate>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Pittsburgh, Fort Wayne and Chicago Railroad Co. Stock Certificate," ns2:href="31735070381979">
+                    <daodesc>
+                        <p>Pittsburgh, Fort Wayne and Chicago Railroad Co. Stock Certificate,, ca. 1900 </p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref41" level="item">
+                <did>
+                    <unittitle>Little Miami Railroad Company Stock Certificate,</unittitle>
+                    <container id="cid5468066" type="Folder" label="Mixed materials">33</container>
+                    <unitdate>ca. 1850</unitdate>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title=" Little Miami Railroad Company Stock Certificate," ns2:href="31735070381748">
+                    <daodesc>
+                        <p> Little Miami Railroad Company Stock Certificate,, ca. 1850 </p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref42" level="item">
+                <did>
+                    <unittitle>Steubenville and Indiana Railroad Company Stock Certificate,</unittitle>
+                    <container id="cid5468101" type="Folder" label="Mixed materials">34</container>
+                    <unitdate>June 9, 1856</unitdate>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Steubenville and Indiana Railroad Company Stock Certificate," ns2:href="31735070381763">
+                    <daodesc>
+                        <p>Steubenville and Indiana Railroad Company Stock Certificate,, June 9, 1856 </p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref43" level="item">
+                <did>
+                    <unittitle>Grand Rapids and Indiana Railroad Company Stock Certificate,</unittitle>
+                    <container id="cid5468069" type="Folder" label="Mixed materials">35</container>
+                    <unitdate>July 21, 1958</unitdate>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Grand Rapids and Indiana Railroad Company Stock Certificate," ns2:href="31735070381755">
+                    <daodesc>
+                        <p>Grand Rapids and Indiana Railroad Company Stock Certificate,, July 21, 1958 </p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref44" level="file">
+                <did>
+                    <unittitle>Pittsburg and Steubenville Rail Road Company Stock Certificate,</unittitle>
+                    <container id="cid5468070" type="Folder" label="Mixed materials">36</container>
+                    <unitdate>March 1, 1859</unitdate>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Pittsburg and Steubenville Rail Road Company Stock Certificate," ns2:href="31735070381771">
+                    <daodesc>
+                        <p>Pittsburg and Steubenville Rail Road Company Stock Certificate,, March 1, 1859 </p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref45" level="item">
+                <did>
+                    <unittitle>Holiday's Cove Railroad Co. Stock Certificate,</unittitle>
+                    <container id="cid5468072" type="Folder" label="Mixed materials">37</container>
+                    <unitdate>December 4, 1866</unitdate>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Holiday's Cove Railroad Co. Stock Certificate," ns2:href="31735070381789">
+                    <daodesc>
+                        <p>Holiday's Cove Railroad Co. Stock Certificate,, December 4, 1866 </p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref46" level="item">
+                <did>
+                    <unittitle>Columbus, Chicago and Indiana Central Railway Company Stock Certificate,</unittitle>
+                    <container id="cid5468074" type="Folder" label="Mixed materials">38</container>
+                    <unitdate>April 18, 1871</unitdate>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Columbus, Chicago and Indiana Central Railway Company," ns2:href="31735070381797">
+                    <daodesc>
+                        <p>Columbus, Chicago and Indiana Central Railway Company,, April 18, 1871 </p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref47" level="item">
+                <did>
+                    <unittitle>Columbus, Chicago and Indiana Central Railway Company Stock Certificate,</unittitle>
+                    <container id="cid5468076" type="Folder" label="Mixed materials">39</container>
+                    <unitdate>November 21, 1881</unitdate>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Columbus, Chicago and Indiana Central Railway Company," ns2:href="31735070381805">
+                    <daodesc>
+                        <p>Columbus, Chicago and Indiana Central Railway Company,, November 21, 1881 </p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref48" level="file">
+                <did>
+                    <unittitle>Chicago, St. Louis and Pittsburgh Railroad Company Stock Certificate,</unittitle>
+                    <container id="cid5468079" type="Folder" label="Mixed materials">40</container>
+                    <unitdate>May 15, 1883</unitdate>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Chicago, St. Louis and Pittsburgh Railroad Company Stock Certificate," ns2:href="31735070381813">
+                    <daodesc>
+                        <p>Chicago, St. Louis and Pittsburgh Railroad Company Stock Certificate,, May 15, 1883 </p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref49" level="item">
+                <did>
+                    <unittitle>Chicago, St. Louis and Pittsburgh Railroad Company Stock Certificate,</unittitle>
+                    <container id="cid5468080" type="Folder" label="Mixed materials">41</container>
+                    <unitdate>October 16, 1883</unitdate>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Chicago, St. Louis and Pittsburgh Railroad Company Stock Certificate," ns2:href="31735070381821">
+                    <daodesc>
+                        <p>Chicago, St. Louis and Pittsburgh Railroad Company Stock Certificate,, October 16, 1883 </p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref50" level="item">
+                <did>
+                    <unittitle>Chartiers Railway Company Stock Certificate,</unittitle>
+                    <container id="cid5468083" type="Folder" label="Mixed materials">42</container>
+                    <unitdate>January 27, 1886</unitdate>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Chartiers Railway Company Stock Certificate," ns2:href="31735070381839">
+                    <daodesc>
+                        <p>Chartiers Railway Company Stock Certificate,, January 27, 1886 </p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref51" level="item">
+                <did>
+                    <unittitle>Chicago, St. Louis and Pittsburgh Railroad Co. Stock Certificate,</unittitle>
+                    <container id="cid5468085" type="Folder" label="Mixed materials">43</container>
+                    <unitdate>May 7, 1889</unitdate>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Chicago, St. Louis and Pittsburgh Railroad Co. Stock Certificate," ns2:href="31735070381847">
+                    <daodesc>
+                        <p>Chicago, St. Louis and Pittsburgh Railroad Co. Stock Certificate,, May 7, 1889 </p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref52" level="item">
+                <did>
+                    <unittitle>Pittsburgh, Cincinnati and St. Louis Railway Co. Stock Certificate,</unittitle>
+                    <container id="cid5468087" type="Folder" label="Mixed materials">44</container>
+                    <unitdate>June 26, 1889</unitdate>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Pittsburgh, Cincinnati and St. Louis Railways Co. Stock Certificate," ns2:href="31735070381854">
+                    <daodesc>
+                        <p>Pittsburgh, Cincinnati and St. Louis Railways Co. Stock Certificate,, June 26, 1889 </p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref53" level="file">
+                <did>
+                    <unittitle>Pittsburgh, Cincinnati, Chicago and St. Louis Railway Company Stock Certificate,</unittitle>
+                    <container id="cid5468088" type="Folder" label="Mixed materials">45</container>
+                    <unitdate>January 10, 1898</unitdate>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Pittsburgh, Cincinnati, Chicago and St. Louis Railway Company Stock Certificate," ns2:href="31735070381862">
+                    <daodesc>
+                        <p>Pittsburgh, Cincinnati, Chicago and St. Louis Railway Company Stock Certificate,, January 10, 1898 </p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref54" level="item">
+                <did>
+                    <unittitle>Pittsburgh, Cincinnati, Chicago and St. Louis Railway Company Stock Certificate,</unittitle>
+                    <container id="cid5468091" type="Folder" label="Mixed materials">46</container>
+                    <unitdate>March 15, 1910</unitdate>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title=" Pittsburgh, Cincinnati, Chicago and St. Louis Railway Company Stock Certificate," ns2:href="31735070381870">
+                    <daodesc>
+                        <p> Pittsburgh, Cincinnati, Chicago and St. Louis Railway Company Stock Certificate,, March 15, 1910 </p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref55" level="item">
+                <did>
+                    <unittitle>Columbus and Zenia Railroad Company Stock Certificate,</unittitle>
+                    <container id="cid5468093" type="Folder" label="Mixed materials">47</container>
+                    <unitdate>October 29, 1925</unitdate>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Columbus and Zenia Railroad Company Stock Certificate," ns2:href="31735070381888">
+                    <daodesc>
+                        <p>Columbus and Zenia Railroad Company Stock Certificate,, October 29, 1925 </p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref56" level="item">
+                <did>
+                    <unittitle>Pittsburgh, Youngstown &amp; Ashtabula Railway Company First General Mortgage Bond,</unittitle>
+                    <container id="cid5468094" type="Folder" label="Mixed materials">48</container>
+                    <unitdate>May 28, 1924</unitdate>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Pittsburgh, Youngstown &amp; Ashtabula Railway Company First General Mortgage Bond," ns2:href="31735070381730">
+                    <daodesc>
+                        <p>Pittsburgh, Youngstown &amp; Ashtabula Railway Company First General Mortgage Bond,, May 28, 1924 </p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref57" level="item">
+                <did>
+                    <unittitle>Pittsburgh &amp; Lake Erie Railroad Co. Stock Certificate,</unittitle>
+                    <container id="cid5468097" type="Folder" label="Mixed materials">49</container>
+                    <unitdate>August 9, 1954</unitdate>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Pittsburgh &amp; Lake Erie Railroad Co. Stock Certificate," ns2:href="31735066267117">
+                    <daodesc>
+                        <p>Pittsburgh &amp; Lake Erie Railroad Co. Stock Certificate,, August 9, 1954 </p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref58" level="item">
+                <did>
+                    <unittitle>Pittsburgh &amp; Lake Erie Railroad Co. Stock Certificate,</unittitle>
+                    <container id="cid5468099" type="Folder" label="Mixed materials">50</container>
+                    <unitdate>June 6,1966</unitdate>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Pittsburgh &amp; Lake Erie Railroad Co. Stock Certificate," ns2:href="31735070381714">
+                    <daodesc>
+                        <p>Pittsburgh &amp; Lake Erie Railroad Co. Stock Certificate,, June 6,1966 </p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref59" level="file">
+                <did>
+                    <unittitle>Pittsburgh &amp; Moon Run Railroad Company Stock Certificate,</unittitle>
+                    <container id="cid5468102" type="Folder" label="Mixed materials">51</container>
+                    <unitdate>ca. 1890</unitdate>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Pittsburgh &amp; Moon Run Railroad Company Stock Certificate," ns2:href="31735070381722">
+                    <daodesc>
+                        <p>Pittsburgh &amp; Moon Run Railroad Company Stock Certificate,, ca. 1890 </p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref60" level="file">
+                <did>
+                    <unittitle>test,</unittitle>
+                    <unitdate>2016</unitdate>
+                </did>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

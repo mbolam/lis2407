@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="In_DRL" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US">US-PPiU-ais197315</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the H.K. Porter Co., Pittsburgh, Pa. Records, 1877-1968
+                    <num>AIS.1973.15</num>
+                </titleproper>
+                <author>Finding aid prepared by Archives Staff. Revisions occurred to the finding aid as a part of the encoding process in Febraury, 2004.</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>ULS Archives Service Center</publisher>
+                <address>
+                    <addressline>University of Pittsburgh Library System</addressline>
+                    <addressline>7500 Thomas Boulevard</addressline>
+                    <addressline>Pittsburgh, PA, 15260</addressline>
+                    <addressline>412-648-3232</addressline>
+                    <addressline>archives-ref@mail.pitt.edu</addressline>
+                </address>
+                <date>June 1973</date>
+            </publicationstmt>
+            <notestmt>
+                <note>
+                    <p>July 1, 2006: Converted from EAD Version 1.0 to EAD Version 2002</p>
+                </note>
+            </notestmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2016-05-19T13:57-0400</date>
+            </creation>
+            <langusage>English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+        <revisiondesc>
+            <change>
+                <date>May 2016</date>
+                <item>Description of oversize material added to the finding aid. Updated date range on folders.</item>
+            </change>
+        </revisiondesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>H.K. Porter Co., Pittsburgh, Pa. Records</unittitle>
+            <unitid>AIS.1973.15</unitid>
+            <repository>
+                <corpname>ULS Archives Service Center</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>1.75 linear feet</extent>
+                <extent>(2 boxes)</extent>
+            </physdesc>
+            <unitdate>1877-1968</unitdate>
+            <abstract id="ref2" label="Abstract">This collection contains the records of H.K. Porter Co. for the years 1877-1968. H.K. Porter was a major manufacturer of light locomotives from 1867-1941. Today, H.K. Porter is known for industrial products such as rubber belts, valves, and springs.</abstract>
+            <origination label="creator">
+                <corpname source="naf">H. K. Porter Company.</corpname>
+            </origination>
+        </did>
+        <bioghist id="ref3">
+            <head>History</head>
+            <p>H.K. Porter Co. began in 1866 with the name Smith Porter. In 1871 the company's name changed to Porter, Bell Co and then to H. K. Porter Co. in 1878. H.K. Porter was the leading manufacturer of light locomotives in the United States from 1867-1941, and the leading locomotive builder in Pittsburgh for 83 years.</p>
+            <p>In the United States large industrial locomotives dominated the national market while light locomotives dominated the exported. During the period 1900-1930, H.K. Porter specialized in export equipment ranging from light, functional cars to portable track. Several of the smaller locomotive builders, like The Gregg Company Ltd., furnished the engines for H.K. Porter which were shipped overseas.</p>
+            <p>Although it originally offered no product but the light locomotive, H.K. Porter diversified after 1900. The industrial products for which H.K. Porter is known today, rubber belts, hoses, high voltage electrical equipment, springs, and valves finally overshadowed the declining locomotive business. Porter ceased locomotive production in 1950 and sold its entire business to Davenport-Besler Corporation of Davenport, Iowa. Davenport later conveyed its locomotive interests to a Canadian Locomotive Company. H.K. Porter Co. functions today as an industrial supply manufacturer operating as H.K. Porter.</p>
+        </bioghist>
+        <scopecontent id="ref4">
+            <head>Scope and Content Notes</head>
+            <p>This collection contains the records of H.K. Porter Company for the years 1877-1968. The collection consists of seven folders of paper records and four folders of photographs. Included are photographs, locomotive cards, reports, and a production list. Of particular interest is a report of locomotives damaged in Pittsburgh during the Great Railroad Strike of July 1877.</p>
+        </scopecontent>
+        <accessrestrict id="ref5">
+            <head>Access Restrictions</head>
+            <p>No restrictions.</p>
+        </accessrestrict>
+        <acqinfo id="ref6">
+            <head>Acquisition Information</head>
+            <p>These records were a gift of Mrs. Lester C. Hill, June 1973.</p>
+        </acqinfo>
+        <prefercite id="ref7">
+            <head>Preferred Citation</head>
+            <p>H.K. Porter Co. Records, Pittsburgh, Pa., 1877-1968, AIS.1973.15, Archives Service Center, University of Pittsburgh</p>
+        </prefercite>
+        <odd id="ref8">
+            <head>Previous Citation</head>
+            <p>H.K. Porter Co., 1877-1968, Archives of Industrial Society, University of Pittsburgh Libraries</p>
+        </odd>
+        <processinfo id="ref9">
+            <head>Processing Information</head>
+            <p>This collection was reprocessed by Andy Newman in February, 2004.</p>
+            <p>Revision and rearrangement for the encoded version of the finding aid provided by Andy Newman in February, 2004. Information about the collection title and the controlled access terms was extracted from the MARC record in the University of Pittsburgh catalog Voyager ID number: 1419671</p>
+        </processinfo>
+        <userestrict id="ref10">
+            <head>Copyright</head>
+            <p>Permission for publication is given on behalf of the University of Pittsburgh as the owner of the physical items and is not intended to include or imply permission of the copyright holder, which must also be obtained.</p>
+        </userestrict>
+        <controlaccess>
+            <corpname source="naf">H. K. Porter Company.</corpname>
+            <subject source="ulstag">Business and Industry</subject>
+            <subject source="lcsh">Industries -- Pennsylvania -- Pittsburgh</subject>
+            <subject source="lcsh">Locomotive industry -- Pennsylvania -- Pittsburgh -- History</subject>
+            <subject source="lcsh">Locomotives -- Pennsylvania -- Pittsburgh -- Maintenance and repair</subject>
+            <subject source="ulstag">Transportation</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref11" level="file">
+                <did>
+                    <unittitle>List of Locomotives (#155-#2559) built by H.K Porter Co.,</unittitle>
+                    <container id="cid47596" type="Box" label="Mixed materials">1</container>
+                    <container parent="cid47596" type="Folder">1</container>
+                    <unitdate>1873-1902</unitdate>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="List of Locomotives (#155-#2559) built by H.K Porter Co.," ns2:href="31735047450121">
+                    <daodesc>
+                        <p>List of Locomotives (#155-#2559) built by H.K Porter Co.,, 1873-1902 </p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref12" level="file">
+                <did>
+                    <unittitle>Estimated Cost of Repairs to Locomotives of 
+                        <title render="italic">Pennsylvania Railroad</title> and 
+                        <title render="italic">Pittsburgh, Cincinnati and St. Louis Railroad</title> Burned During Riot -- July, 1877,</unittitle>
+                    <container id="cid47595" type="Folder" label="Mixed materials">2</container>
+                    <unitdate>1877</unitdate>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Estimated Cost of Repairs to Locomotives of Pennsylvania Railroad and Pittsburgh, Cincinnati and St. Louis Railroad Burned During Riot -- July, 1877," ns2:href="31735070381656">
+                    <daodesc>
+                        <p>Estimated Cost of Repairs to Locomotives of Pennsylvania Railroad and Pittsburgh, Cincinnati and St. Louis Railroad Burned During Riot -- July, 1877,, 1877 </p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref15" level="file">
+                <did>
+                    <unittitle>Willis E. Martin, Treasurer-- Mourning Card,</unittitle>
+                    <container id="cid47592" type="Folder" label="Mixed materials">3</container>
+                    <unitdate>January 12, 1920</unitdate>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Willis E. Martin, Treasurer-- Mourning Card, " ns2:href="31735070381664">
+                    <daodesc>
+                        <p>Willis E. Martin, Treasurer-- Mourning Card, , January 12, 1920 </p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref16" level="file">
+                <did>
+                    <unittitle>Stockholder form letters,</unittitle>
+                    <container id="cid47591" type="Folder" label="Mixed materials">4</container>
+                    <unitdate>December 9, 1925</unitdate>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Stockholder form letters," ns2:href="31735070381672">
+                    <daodesc>
+                        <p>Stockholder form letters,, December 9, 1925 </p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref22" level="file">
+                <did>
+                    <unittitle>
+                        <title render="italic">Pittsburgh Dispatch</title>, "After a New Charter,"</unittitle>
+                    <container id="cid5410001" type="Folder" label="Mixed materials">5</container>
+                    <unitdate>March 16, 1899</unitdate>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Pittsburgh Dispatch, &quot;After a New Charter,&quot;" ns2:href="31735070381680">
+                    <daodesc>
+                        <p>Pittsburgh Dispatch, "After a New Charter,", March 16, 1899 </p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref23" level="file">
+                <did>
+                    <unittitle>
+                        <title render="italic">The Bulletin Index</title>, "H. K. Porter Co. Locomotives Chug around the World but their day is on the Wane."</unittitle>
+                    <container id="cid5410002" type="Folder" label="Mixed materials">6</container>
+                    <unitdate>April 30, 1936</unitdate>
+                </did>
+                <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="The Bulletin Index, &quot;H. K. Porter Co. Locomotives Chug around the World but their day is on the Wane.&quot;" ns2:href="31735070381698">
+                    <daodesc>
+                        <p>The Bulletin Index, "H. K. Porter Co. Locomotives Chug around the World but their day is on the Wane.", April 30, 1936 </p>
+                    </daodesc>
+                </dao>
+            </c01>
+            <c01 id="ref17" level="file">
+                <did>
+                    <unittitle>Annual Reports (4),</unittitle>
+                    <container id="cid47590" type="Folder" label="Mixed materials">7</container>
+                    <unitdate>1965-1968</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref19" level="otherlevel">
+                <did>
+                    <unittitle>Photographs,</unittitle>
+                    <unitdate>c1880-1920</unitdate>
+                </did>
+                <c02 id="ref21" level="file">
+                    <did>
+                        <unittitle>Portaits of Henry Kirke Porter,</unittitle>
+                        <container id="cid5410005" type="Box" label="Photographic images">2</container>
+                        <container parent="cid5410005" type="Folder">1</container>
+                        <unitdate>c1880-1920</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref18" level="file">
+                    <did>
+                        <unittitle>Company officers (group shot at a formal dinner),</unittitle>
+                        <unitid>1.</unitid>
+                        <container id="cid1053004" type="Folder" label="Photographic images">2</container>
+                        <unitdate>c1900</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref13" level="file">
+                    <did>
+                        <unittitle>Logging Locomotive built by Porter, Bell &amp; Co. for the Lake George and Mukegon River Railroad (Farwell, Michigan),</unittitle>
+                        <container id="cid5410004" type="Folder" label="Photographic images">3</container>
+                        <unitdate>1890</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref14" level="file">
+                    <did>
+                        <unittitle>Locomotive Advertising Cards (13),</unittitle>
+                        <container id="cid5410003" type="Folder" label="Photographic images">4</container>
+                        <unitdate>1900</unitdate>
+                    </did>
+                    <dao ns2:actuate="onRequest" ns2:show="new" ns2:title="Locomotive Advertising Cards (13)," ns2:href="31735070381706">
+                        <daodesc>
+                            <p>Locomotive Advertising Cards (13),, 1900 </p>
+                        </daodesc>
+                    </dao>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

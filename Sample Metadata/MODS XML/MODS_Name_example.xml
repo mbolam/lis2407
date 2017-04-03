@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods
+    xmlns:mods="http://www.loc.gov/mods/v3" 
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd ">
+    
+    <mods:name type="personal">
+        <mods:namePart>Abrams, Michael</mods:namePart>
+        <mods:description>American artist, 20th c.</mods:description>
+    </mods:name>
+    
+    
+    <mods:name type="corporate">
+        <mods:namePart>United States</mods:namePart>
+        <mods:namePart>Court of Appeals (2nd Circuit)</mods:namePart>
+    </mods:name>
+    
+    
+    
+    <mods:name type="personal">
+        <mods:namePart type="termsOfAddress">Dr.</mods:namePart>
+        <mods:namePart>Brown, B. F.</mods:namePart>
+        <mods:affiliation>Chemistry Dept., American University</mods:affiliation>
+        <mods:role>
+            <mods:roleTerm type="text" authority="marcrelator">creator</mods:roleTerm>
+            <mods:roleTerm type="code" authority="marcrelator">cre</mods:roleTerm>
+        </mods:role>
+        <mods:role>
+            <mods:roleTerm type="text" authority="marcrelator">author</mods:roleTerm>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+        </mods:role>
+    </mods:name>
+    
+    
+    <mods:name type="personal">
+        <mods:namePart type="given">John</mods:namePart>
+        <mods:namePart type="family">Huston</mods:namePart>
+        <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">drt</mods:roleTerm>
+            <mods:roleTerm type="text" authority="marcrelator">director</mods:roleTerm>
+        </mods:role>
+    </mods:name>
+    
+
+    
+   
+</mods:mods>

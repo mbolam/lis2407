@@ -17,3 +17,11 @@ Upon completion of the course, students will be able to:
 * Course Syllabus
 * Metadata Examples
 * Schema Examples
+
+### Course Requirements
+* Class Participation 10%
+* Collection Description 10%
+* Resource Description Assignment 15%
+* Encoding Metadata Assignment 20%
+* Metadata Standards Reports 10%
+* Final Project - Metadata Design and Documentation Wiki 35%

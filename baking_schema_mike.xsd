@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
-    targetNamespace="https://github.com/millscj234/baking-items"
-    xmlns:bake="https://github.com/millscj234/baking-items" xmlns:mods="http://www.loc.gov/mods/v3"
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" targetNamespace="https://github.com/mbolam/lis2407"
+    xmlns:bake="https://github.com/mbolam/lis2407" xmlns:mods="http://www.loc.gov/mods/v3"
     xmlns:vra="http://www.vraweb.org/vracore4.htm" elementFormDefault="qualified">
-    
+
     <xs:import namespace="http://www.loc.gov/mods/v3"
         schemaLocation="http://www.loc.gov/standards/mods/v3/mods-3-6.xsd"/>
     <xs:import namespace="http://www.vraweb.org/vracore4.htm"
         schemaLocation="http://www.loc.gov/standards/vracore/vra.xsd"/>
-    
+
     <xs:element name="bakingitem">
         <xs:complexType>
             <xs:sequence>
@@ -16,14 +15,14 @@
                 <xs:element ref="bake:weight" minOccurs="0"/>
                 <xs:element name="purpose" type="xs:string" minOccurs="0"/>
                 <xs:element ref="bake:recipes" minOccurs="0"/>
-                <xs:element ref="bake:purchaselocation" />
+                <xs:element ref="bake:purchaselocation"/>
                 <xs:element ref="bake:modsSection" minOccurs="0"/>
                 <xs:element ref="bake:vraSection" minOccurs="0"/>
             </xs:sequence>
         </xs:complexType>
     </xs:element>
-    
-    
+
+
     <xs:element name="measurement" type="xs:decimal"/>
     <xs:complexType name="measurementDefinition">
         <xs:sequence>
@@ -32,9 +31,9 @@
             <xs:element name="width" minOccurs="0" maxOccurs="unbounded"/>
         </xs:sequence>
     </xs:complexType>
-    
-    
-    <xs:element name="weight"  type="xs:decimal"/>
+
+
+    <xs:element name="weight" type="xs:decimal"/>
     <xs:complexType name="weightDefinition">
         <xs:sequence>
             <xs:element name="pounds" minOccurs="0" maxOccurs="unbounded"/>
@@ -43,16 +42,16 @@
             <xs:element name="ounces" minOccurs="0" maxOccurs="unbounded"/>
         </xs:sequence>
     </xs:complexType>
-    
-    
+
+
     <xs:element name="recipes" type="xs:string"/>
     <xs:complexType name="recipesDefinition">
         <xs:sequence>
             <xs:element name="UsedIn" minOccurs="0" maxOccurs="unbounded"/>
         </xs:sequence>
     </xs:complexType>
-    
-    
+
+
     <xs:element name="purchaselocation" type="xs:string"/>
     <xs:complexType name="purchaselocationDefinition">
         <xs:sequence>
@@ -60,8 +59,8 @@
             <xs:element name="physicalPurchaseLocation" minOccurs="0" maxOccurs="unbounded"/>
         </xs:sequence>
     </xs:complexType>
-    
-    
+
+
     <xs:element name="modsSection">
         <xs:complexType>
             <xs:sequence>
@@ -69,7 +68,7 @@
             </xs:sequence>
         </xs:complexType>
     </xs:element>
-    
+
     <xs:element name="vraSection">
         <xs:complexType>
             <xs:sequence>
@@ -77,9 +76,9 @@
             </xs:sequence>
         </xs:complexType>
     </xs:element>
-    
-    
-    
-    
-    
+
+
+
+
+
 </xs:schema>

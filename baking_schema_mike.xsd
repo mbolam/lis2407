@@ -16,7 +16,7 @@
                 <xs:element ref="bake:weight" minOccurs="0"/>
                 <xs:element name="purpose" type="xs:string" minOccurs="0"/>
                 <xs:element ref="bake:recipes" minOccurs="0"/>
-                <xs:element ref="bake:purchaselocation"/>
+                <xs:element ref="bake:purchaselocation" minOccurs="0"/>
                 <xs:element ref="bake:modsSection" minOccurs="0"/>
                 <xs:element ref="bake:vraSection" minOccurs="0"/>
             </xs:sequence>

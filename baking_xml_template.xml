@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bakingitem xmlns="https://github.com/mbolam/lis2407"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:mods="http://www.loc.gov/mods/v3" xmlns:vra="http://www.vraweb.org/vracore4.htm"
+    xsi:schemaLocation="https://github.com/mbolam/lis2407 https://raw.githubusercontent.com/mbolam/lis2407/master/baking_schema_mike.xsd">
+    
+    
+    <measurement></measurement>
+    <weight></weight>
+    <purpose></purpose>
+    <recipes></recipes>
+    <purchaselocation></purchaselocation>
+
+    
+    <modsSection>
+        <mods:mods>
+            <mods:abstract></mods:abstract>
+        </mods:mods>
+    </modsSection>
+    
+    <vraSection>
+
+    </vraSection>
+</bakingitem>

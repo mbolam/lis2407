@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
     targetNamespace="https://github.com/kellymd/trash-art-/"
-    xmlns:trashart="https://github.com/kellymd/trash-art-/"
+    xmlns:trashArt="https://github.com/kellymd/trash-art-/"
     xmlns:mods="http://www.loc.gov/mods/v3"
     xmlns:vra="http://www.vraweb.org/vracore4.htm"
     elementFormDefault="qualified">
@@ -13,10 +13,36 @@
     
     <!--<xs:import namespace="http://www.vraweb.org/vracore4.htm" schemaLocation="http://www.loc.gov/standards/vracore/vra-strict.xsd"/>-->
     
-    <xs:element name="trashArtSection">
+    <xs:element name="trashArt">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="trashArt:materials" minOccurs="0" maxOccurs="unbounded"/>
+                <xs:element name="materialType" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                <xs:element name="access" type="xs:string" minOccurs="0"/>
+                <xs:element ref="trashArt:hours" minOccurs="0"/>
+                <xs:element ref="trashArt:publicAccess"/>
+                <xs:element name="accessNote" type="xs:string"/>
+                <xs:element ref="trashArt:theme" maxOccurs="unbounded"/>
+                <xs:element ref="trashArt:modsSection" minOccurs="0"/>
+                <xs:element ref="trashArt:vraSection" minOccurs="0" />
+            </xs:sequence>
+            
+            
+        </xs:complexType>
+    </xs:element>
+    
+    <xs:element name="materials">
         <xs:simpleType>
-            <xs:all>
-                <xs:element name="theme" type="xs:string" maxOccurs="unbounded"/>
+            <xs:restriction base="xs:string">
+            <xs:enumeration value="trash"/>
+            <xs:enumeration value="not trash"/>
+            </xs:restriction>
+        </xs:simpleType>
+    </xs:element>
+    
+    <xs:element name="theme">
+        <xs:simpleType>
+            <xs:restriction base="xs:string">
                 <xs:enumeration value="consumerism"/>
                 <xs:enumeration value="carnival"/>
                 <xs:enumeration value="fun"/>
@@ -33,29 +59,26 @@
                 <xs:enumeration value="existenialism"/>
                 <xs:enumeration value="impermanence"/>
                 <xs:enumeration value="sentimentality"/>
-            </xs:all>
+            </xs:restriction>
         </xs:simpleType>
+    </xs:element>
+    
+    <xs:element name="hours">
         <xs:complexType>
-            <xs:all>
-                <xs:element name="materials" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
-                <xs:enumeration value="trash"/>
-                <xs:enumeration value="not trash"/>
-                <xs:element name="materialType" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
-                <xs:element name="access" type="xs:string" minOccurs="0"/>
-                <xs:element name="hours" type="xs:string" minOccurs="0"/>
-                <xs:sequence>
-                    <xs:element name="startHour" type="xs:time" minOccurs="0"/>
-                    <xs:element name="endHour" type="xs:time" minOccurs="0"/>
-                </xs:sequence>
-                <xs:element name="publicAccess" type="xs:token"/>
+        <xs:sequence>
+            <xs:element name="startHour" type="xs:time" minOccurs="0"/>
+            <xs:element name="endHour" type="xs:time" minOccurs="0"/>
+        </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    
+    <xs:element name="publicAccess">
+        <xs:simpleType>
+            <xs:restriction base="xs:string">
                 <xs:enumeration value="yes"/>
                 <xs:enumeration value="no"/>
-                <xs:element name="accessNote" type="xs:string"/>
-                <xs:element name="theme" type="xs:string" maxOccurs="unbounded"/>
-                <xs:element ref="trashArt:modsSection" minOccurs="0"/>
-                <xs:element ref="trashArt:vraSection" minOccurs="0" />
-            </xs:all>
-        </xs:complexType>
+            </xs:restriction>
+        </xs:simpleType>
     </xs:element>
     
     <xs:element name="modsSection">
@@ -72,9 +95,6 @@
                 <xs:element ref="vra:work" minOccurs="0"/>
                 <xs:element ref="vra:image" minOccurs="0"/>
                 <xs:element ref="vra:collection" minOccurs="0"/>
-                <xs:element ref="vra:culturalContext" minOccurs="0"/>
-                <xs:element ref="vra:measurements" minOccurs="0"/>
-                <xs:element ref="rightsSet" minOccurs="0"/>
             </xs:sequence>
         </xs:complexType>
     </xs:element>

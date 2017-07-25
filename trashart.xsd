@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
-    targetNamespace="https://github.com/kellymd/trash-art-/"
-    xmlns:trashArt="https://github.com/kellymd/trash-art-/"
+    targetNamespace="https://github.com/mbolam/lis2407"
+    xmlns:trashArt="https://github.com/mbolam/lis2407"
     xmlns:mods="http://www.loc.gov/mods/v3"
     xmlns:vra="http://www.vraweb.org/vracore4.htm"
     elementFormDefault="qualified">

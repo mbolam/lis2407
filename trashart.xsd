@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    targetNamespace="https://github.com/kellymd/trash-art-/"
+    xmlns:trashart="https://github.com/kellymd/trash-art-/"
+    xmlns:mods="http://www.loc.gov/mods/v3"
+    xmlns:vra="http://www.vraweb.org/vracore4.htm"
+    elementFormDefault="qualified">
+    
+    <xs:import namespace="http://www.loc.gov/mods/v3" 
+        schemaLocation="http://www.loc.gov/standards/mods/v3/mods-3-6.xsd"/>
+    <xs:import namespace="http://www.vraweb.org/vracore4.htm"
+        schemaLocation="http://www.loc.gov/standards/vracore/vra.xsd"/>
+    
+    <!--<xs:import namespace="http://www.vraweb.org/vracore4.htm" schemaLocation="http://www.loc.gov/standards/vracore/vra-strict.xsd"/>-->
+    
+    <xs:element name="trashArtSection">
+        <xs:simpleType>
+            <xs:all>
+                <xs:element name="theme" type="xs:string" maxOccurs="unbounded"/>
+                <xs:enumeration value="consumerism"/>
+                <xs:enumeration value="carnival"/>
+                <xs:enumeration value="fun"/>
+                <xs:enumeration value="depression"/>
+                <xs:enumeration value="recycling"/>
+                <xs:enumeration value="waste"/>
+                <xs:enumeration value="self-reflection"/>
+                <xs:enumeration value="subversion"/>
+                <xs:enumeration value="disgust"/>
+                <xs:enumeration value="consumerism"/>
+                <xs:enumeration value="art history"/>
+                <xs:enumeration value="transformation"/>
+                <xs:enumeration value="poverty"/>
+                <xs:enumeration value="existenialism"/>
+                <xs:enumeration value="impermanence"/>
+                <xs:enumeration value="sentimentality"/>
+            </xs:all>
+        </xs:simpleType>
+        <xs:complexType>
+            <xs:all>
+                <xs:element name="materials" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                <xs:enumeration value="trash"/>
+                <xs:enumeration value="not trash"/>
+                <xs:element name="materialType" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+                <xs:element name="access" type="xs:string" minOccurs="0"/>
+                <xs:element name="hours" type="xs:string" minOccurs="0"/>
+                <xs:sequence>
+                    <xs:element name="startHour" type="xs:time" minOccurs="0"/>
+                    <xs:element name="endHour" type="xs:time" minOccurs="0"/>
+                </xs:sequence>
+                <xs:element name="publicAccess" type="xs:token"/>
+                <xs:enumeration value="yes"/>
+                <xs:enumeration value="no"/>
+                <xs:element name="accessNote" type="xs:string"/>
+                <xs:element name="theme" type="xs:string" maxOccurs="unbounded"/>
+                <xs:element ref="trashArt:modsSection" minOccurs="0"/>
+                <xs:element ref="trashArt:vraSection" minOccurs="0" />
+            </xs:all>
+        </xs:complexType>
+    </xs:element>
+    
+    <xs:element name="modsSection">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="mods:mods"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    
+    <xs:element name="vraSection">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="vra:work" minOccurs="0"/>
+                <xs:element ref="vra:image" minOccurs="0"/>
+                <xs:element ref="vra:collection" minOccurs="0"/>
+                <xs:element ref="vra:culturalContext" minOccurs="0"/>
+                <xs:element ref="vra:measurements" minOccurs="0"/>
+                <xs:element ref="rightsSet" minOccurs="0"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    
+</xs:schema>
